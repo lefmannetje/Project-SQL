@@ -1,0 +1,1288 @@
+company;menu_item_name;restaurant_name;latitude;longitude;avg_kapsalon
+Deliveroo;Kapsalon;Pizzeria Amore;50.8296651;3.2715595;4.5
+Uber Eats;Kapsalon;Pizzeria Amore;50.82996;3.27097;4.5
+Deliveroo;Kapsalon;Yamal Alsham ;51.2182847;4.418298200000001;5.0
+Uber Eats;Kapsalon;Tubize Food;50.69286;4.20507;5.0
+Uber Eats;Kapsalon;Barbecue Duhok;51.06056;3.71041;5.0
+Uber Eats;Kapsalon;Ã–z Ahi;51.19;4.37771;5.0
+Takeaway;Kapsalon;Öz Ahi Döner;51.1899559;4.3778795;5.0
+Deliveroo;Kapsalon;ÖZ AHI;51.1899486;4.3778715;5.5
+Takeaway;Kapsalon;Street Kap;50.853887;4.3537965;5.7
+Deliveroo;Kapsalon;Z'appétit;50.86797929999999;4.3205671;5.83
+Uber Eats;Kapsalon;De Kapsalon;51.20939;4.42945;5.95
+Deliveroo;Kapsalon;Kebab Vrijdag;51.05631;3.726280499999999;6.0
+Takeaway;Kapsalon;Foodbar Melisa;50.8899295;5.6506281;6.0
+Takeaway;Kapsalon;Gevara;51.219154;4.419343;6.0
+Takeaway;Kapsalon;Snack Babylon Uccle;50.7997464;4.3366474;6.0
+Deliveroo;Kapsalon;Pitta Cengoo;51.0527847;3.7463782;6.13
+Takeaway;Kapsalon;Sultan Kebap;51.218858;4.4050159;6.19
+Deliveroo;Kapsalon;De Nijl | Leuven;50.8756293;4.7001928;6.25
+Uber Eats;Kapsalon;Yamal Alsham Antwerpen;51.21829;4.41831;6.38
+Deliveroo;Kapsalon;Solav Kebab;51.2189946;4.420245899999999;6.45
+Uber Eats;Kapsalon;tok tok;51.22517;4.40467;6.47
+Uber Eats;Kapsalon;Mi-Chaud Snack;51.22519;4.40478;6.47
+Deliveroo;Kapsalon;Afghan Restaurant Mahya;51.2226074;4.425693;6.5
+Uber Eats;Kapsalon;Snack Istanbul;50.83547732424592;4.311028588166092;6.5
+Uber Eats;Kapsalon;Amigo's;51.1652283;4.1427483;6.5
+Uber Eats;Kapsalon;Buenos Burgers;51.2076333;4.4649362;6.5
+Takeaway;Kapsalon;Hawin Bakkerij Gent;51.0567129;3.7352987;6.5
+Takeaway;Kapsalon;Snack Mogusto;50.8391966;4.3341794;6.5
+Takeaway;Kapsalon;Najmat Al shaam;51.214038;4.4411826;6.5
+Uber Eats;Kapsalon;Nrj;50.87218;4.39123;6.67
+Uber Eats;Kapsalon;Eldina Snack & Resto;51.24087;4.43924;6.75
+Takeaway;Kapsalon;Chill's Corner;51.1988853;4.4283805;6.75
+Takeaway;Kapsalon;Grillé Darna;50.8701862;4.3722995;6.8
+Deliveroo;Kapsalon;Steakhouse pizzaria Amsterdam;51.1861375;4.3874416;6.81
+Uber Eats;Kapsalon;Pitta House;50.82531;3.26488;6.95
+Takeaway;Kapsalon;Snack Istanbul Wayez;50.835412;4.3110307;6.99
+Deliveroo;Kapsalon;Ali Kebab ;51.06086519999999;3.7012991;7.0
+Deliveroo;Kapsalon;Pizza Posto;50.8760583;4.708988199999999;7.0
+Deliveroo;Kapsalon;Max snacks;50.945308;3.1194103;7.0
+Uber Eats;Kapsalon;Pyramide grillroom pizza pita pasta;51.2275;4.51831;7.0
+Uber Eats;Kapsalon;Viva La Snack;50.80944;3.18506;7.0
+Uber Eats;Kapsalon;Snack Resto de Chef;50.92939;4.42223;7.0
+Uber Eats;Kapsalon;Chicken Center;51.21951;4.419;7.0
+Uber Eats;Kapsalon;Kebab love;51.0497458;3.7322255;7.0
+Takeaway;Kapsalon;Akym Food;50.8769268;4.3792967;7.0
+Takeaway;Kapsalon;Bereket Eethuis & Bakkerij;51.2075049;4.465058;7.0
+Takeaway;Kapsalon;Buenos Burgers;51.2075496;4.4649243;7.0
+Takeaway;Kapsalon;Chicken Center;51.2194223;4.4189822;7.0
+Takeaway;Kapsalon;La Medina Chez Houssin;50.8459048;4.3425521;7.0
+Takeaway;Kapsalon;Napolitano;51.223938;3.22676;7.0
+Takeaway;Kapsalon;Pizza Deliorman;50.8360373;4.3268519;7.0
+Takeaway;Kapsalon;Resto Snack Zen;50.9276312;4.4331812;7.0
+Takeaway;Kapsalon;Snack Omar;51.2253019;4.4167098;7.0
+Takeaway;Kapsalon;Sultan Kebap Geel;51.1666658;4.9889729;7.0
+Uber Eats;Kapsalon;Kaboulsnack;50.82957;4.306;7.04
+Uber Eats;Kapsalon;Sofra;51.1704312;4.1439551;7.08
+Uber Eats;Kapsalon;De Nijl;50.87566;4.70004;7.08
+Takeaway;Kapsalon;Snack Pamukkale;51.0625456;3.6986091;7.13
+Deliveroo;Kapsalon;Kap Saloon;50.8686357;4.3122373;7.14
+Takeaway;Kapsalon;Maison Grill;50.8578394;4.319434;7.17
+Takeaway;Kapsalon;Damas Veneto;51.2207499;4.4266288;7.19
+Uber Eats;Kapsalon;Mahya;51.2226;4.42561;7.22
+Deliveroo;Kapsalon;Kapsalon ;51.2094928;4.4295403;7.23
+Deliveroo;Kapsalon;Snack Gürso;50.8726117;4.3907899;7.25
+Deliveroo;Kapsalon;Pitta Moorselbaan;50.942187;4.046648;7.25
+Uber Eats;Kapsalon;Dinner & you burgers, grill & more ;51.17092;3.86017;7.25
+Uber Eats;Kapsalon;Golden Friet;51.05668;3.71002;7.25
+Uber Eats;Kapsalon;Pala's Food;50.87344;4.31345;7.25
+Uber Eats;Kapsalon;Snack de prins;51.19741;4.42432;7.25
+Takeaway;Kapsalon;Snack Nakhil;51.2179847;4.4288729;7.25
+Uber Eats;Kapsalon;Pizzeria steakhouse Amsterdam;51.18616;4.38731;7.32
+Deliveroo;Kapsalon;Grill Leuven;50.8771943;4.700696;7.33
+Takeaway;Kapsalon;Best of Kebap & Pizza Dender;50.8920932;4.0721603;7.33
+Deliveroo;Kapsalon;Istanbul leuven;50.8788052;4.7001891;7.38
+Uber Eats;Kapsalon;Grill Leuven;50.877283;4.70103;7.38
+Uber Eats;Kapsalon;Pitta Melissa;51.037178;3.7405629;7.38
+Uber Eats;Kapsalon;Ali Baba;50.8789029;4.7000107;7.38
+Takeaway;Kapsalon;Al Baraka;51.037434;4.476926;7.42
+Deliveroo;Kapsalon;Star Kebab;51.3216267;4.9368617;7.43
+Deliveroo;Kapsalon;That's Kebap;51.0611441;3.7011711;7.46
+Deliveroo;Kapsalon;TCHITCHI KEBAB PIZZERIA;51.2251546;4.4048148;7.47
+Deliveroo;Kapsalon;Het Hoekske;50.8771289;4.7004385;7.5
+Deliveroo;Kapsalon;Hot Pizza;51.0579276;3.7067908;7.5
+Deliveroo;Kapsalon;Snack ozzy;51.0375788;3.7423194;7.5
+Deliveroo;Kapsalon;ANATOLIA hoboken;51.1746364;4.3662012;7.5
+Deliveroo;Kapsalon;Shoarma Baghdad;51.2191294;4.4193314;7.5
+Uber Eats;Kapsalon;Bolifrit;51.20364;4.38934;7.5
+Uber Eats;Kapsalon;Anatolia Bakkerij;51.17458;4.36611;7.5
+Uber Eats;Kapsalon;Marinah;50.83499;4.30592;7.5
+Uber Eats;Kapsalon;Pizza Posto;50.87601;4.70914;7.5
+Uber Eats;Kapsalon;Al Manama;50.8385187;4.3102498;7.5
+Uber Eats;Kapsalon;Friethouse - Merksem;51.24035;4.43869;7.5
+Uber Eats;Kapsalon;Istanbul Eethuis;51.2191061;4.4193604;7.5
+Uber Eats;Kapsalon;Snack Ozzy;51.03761;3.74225;7.5
+Uber Eats;Kapsalon;Il Padrino;50.86166;4.3028;7.5
+Uber Eats;Kapsalon;Amine Delices;50.86883;4.3111409;7.5
+Takeaway;Kapsalon;Bolifrit;51.2036366;4.3893121;7.5
+Takeaway;Kapsalon;Istanbul Eethuis;51.2190487;4.4193643;7.5
+Takeaway;Kapsalon;Kebab Bizet;50.8254856;4.2987251;7.5
+Takeaway;Kapsalon;Koz Kebap;51.226234;4.425389;7.5
+Takeaway;Kapsalon;Marinah;50.8349879;4.305918;7.5
+Takeaway;Kapsalon;Snack 4 You;50.8240914;4.2958255;7.5
+Takeaway;Kapsalon;Snack Clems;50.842117;4.33133;7.5
+Takeaway;Kapsalon;Snack Cousin;50.8281543;4.3304799;7.5
+Takeaway;Kapsalon;Snack La Cage;50.8719335;4.3754976;7.5
+Takeaway;Kapsalon;'t Gouden Frietje;51.161182;4.1323647;7.5
+Takeaway;Kapsalon;Tucker Food;50.78019;3.0345345;7.5
+Takeaway;Kapsalon;Snack neerstalle;50.8078851;4.3164883;7.56
+Takeaway;Kapsalon;De Nijl 1;50.8756293;4.7001928;7.58
+Deliveroo;Kapsalon;Friterie Ylli;50.8952141;4.3720045;7.63
+Uber Eats;Kapsalon;Mimm's ;51.17938;4.37792;7.63
+Uber Eats;Kapsalon;ANTWERP PIZZA-PASTA-KEBAB;51.21978;4.40266;7.63
+Takeaway;Kapsalon;Snack & Pizza de Oase;50.9310813;4.4249935;7.63
+Deliveroo;Kapsalon;Frituur het kroontje;51.2329817;4.4531407;7.64
+Takeaway;Kapsalon;Frituur 't Kroontje;51.2329817;4.4531407;7.64
+Deliveroo;Kapsalon;samo bakkerij;51.208929;4.4491621;7.65
+Takeaway;Kapsalon;Samo Bakkerij & Snack;51.208929;4.4491621;7.65
+Deliveroo;Kapsalon;Arif Usta;51.072137;3.7100586;7.67
+Deliveroo;Kapsalon;Kebab love ;51.0497458;3.7322255;7.67
+Takeaway;Kapsalon;Pita Express;51.1829645;4.3833547;7.69
+Deliveroo;Kapsalon;Pizza Mia Ghent;51.06783069999999;3.7290914;7.75
+Uber Eats;Kapsalon;Pita Planet Frituur;51.16387;4.1393;7.75
+Takeaway;Kapsalon;Snack El Medina;50.9884185;5.6923432;7.75
+Uber Eats;Kapsalon;Gansho Food;50.87174;4.31109;7.8
+Uber Eats;Kapsalon;Ã–zmu Snack;50.83977;4.30707;7.8
+Uber Eats;Kapsalon;Pizza Punto;50.847103822701136;4.821171476416675;7.8
+Takeaway;Kapsalon;Snack Au Lunch;50.8888894;4.3389537;7.8
+Takeaway;Kapsalon;Snack Özmu;50.8397466;4.3070863;7.8
+Takeaway;Kapsalon;A La Turka Berchem;51.1967036;4.4224195;7.83
+Takeaway;Kapsalon;Frituur Plantin;51.2102952;4.4277605;7.83
+Takeaway;Kapsalon;Antwerp Pizza - Pasta - Kebab;51.2198579;4.4027308;7.88
+Deliveroo;Kapsalon;Lezziz;50.8249196;3.2722017;7.9
+Uber Eats;Kapsalon;The Burger Bar ;50.79322;4.48221;7.9
+Uber Eats;Kapsalon;Pacha Kebap;50.8254855;4.297839;7.94
+Takeaway;Kapsalon;Solav Kebab;51.2189946;4.4202459;7.95
+Deliveroo;Kapsalon;Ada Eethuis;50.868771;4.6990148;8.0
+Deliveroo;Kapsalon;Ada Pizza;50.868771;4.6990148;8.0
+Deliveroo;Kapsalon;FRITUUR OVERPOORT;51.0405731;3.725505;8.0
+Deliveroo;Kapsalon;Belfort Fast Food;51.2131824;3.2182781;8.0
+Deliveroo;Kapsalon;Sabito's Pizza;51.2176988;4.427042999999999;8.0
+Deliveroo;Kapsalon;Dejeuner Delice;51.2078277;4.4643244;8.0
+Deliveroo;Kapsalon;Kulba Kabul ( Afghan restaurant);51.06084329999999;3.7102631;8.0
+Deliveroo;Kapsalon;Shaam;50.9332903;5.3331392;8.0
+Deliveroo;Kapsalon;Snack Aalst;50.9399256;4.0258409;8.0
+Deliveroo;Kapsalon;Ghoshto Eethuis;51.196372;4.4434889;8.0
+Deliveroo;Kapsalon;Fratello KORTRIJK;50.8107376;3.2995754;8.0
+Deliveroo;Kapsalon;Kokorecci Antwerpen;51.2021287;4.3928709;8.0
+Uber Eats;Kapsalon;Frituur nounou ;51.13211;4.56687;8.0
+Uber Eats;Kapsalon;Istanbul pita & pizza ;51.28356;4.41634;8.0
+Uber Eats;Kapsalon;Just Veggies;51.18477;4.38705;8.0
+Uber Eats;Kapsalon;Restaurant Kulba Kabul;51.06084;3.71023;8.0
+Uber Eats;Kapsalon;Grillhouse Seven & Ipek;51.15627;4.14989;8.0
+Uber Eats;Kapsalon;Snack Derik;50.94189;4.0448;8.0
+Uber Eats;Kapsalon;FRITUUR OVERPOORT;51.04086;3.7255595;8.0
+Takeaway;Kapsalon;Snack Seven;50.8219526;4.3421654;8.0
+Takeaway;Kapsalon;Almina;51.1785685;4.3587163;8.0
+Takeaway;Kapsalon;Don Sako;50.7526979;5.0808884;8.0
+Takeaway;Kapsalon;Snack Muide;51.0730654;3.7310747;8.0
+Takeaway;Kapsalon;Frituur 't Hoekske;51.2110179;4.4344252;8.0
+Takeaway;Kapsalon;Istanbul pizza & pita;51.2798399;4.4187852;8.0
+Takeaway;Kapsalon;Mob's Grill (Halal);50.8709695;4.2649549;8.0
+Takeaway;Kapsalon;O Saveurs;50.8582362;4.3400189;8.0
+Takeaway;Kapsalon;Pitta Isparta;51.0478339;3.7270756;8.0
+Takeaway;Kapsalon;Sint-Antonius;51.228675;5.4325213;8.0
+Takeaway;Kapsalon;Snack 2500;51.1313923;4.5674943;8.0
+Takeaway;Kapsalon;Snack Felix;50.8508108;4.3919207;8.0
+Takeaway;Kapsalon;Snack Felix 2;50.8478045;4.3982331;8.0
+Takeaway;Kapsalon;Snack La Couronne;50.8297666;4.3786763;8.0
+Takeaway;Kapsalon;Tabouleh;51.0387482;3.7467169;8.0
+Takeaway;Kapsalon;U Tacos;51.1636273;4.1392218;8.0
+Takeaway;Kapsalon;Gulle Lepel;50.9496493;4.3115043;8.04
+Takeaway;Kapsalon;Snack Melike;50.8566814;4.3277586;8.04
+Uber Eats;Kapsalon;Delta Pizza;51.05751;3.70702;8.1
+Deliveroo;Kapsalon;Solav kabab;51.2189432;4.4203149;8.13
+Deliveroo;Kapsalon;Pitta-Snack Magic;51.031079;3.7061828;8.13
+Takeaway;Kapsalon;Chef Kebab;50.87349;4.315421;8.13
+Takeaway;Kapsalon;Snackbar 109;51.2039491;4.394389;8.13
+Uber Eats;Kapsalon;Snack Twins;50.80257;4.34119;8.14
+Takeaway;Kapsalon;Snack Boniface;50.8361915;4.3656511;8.14
+Takeaway;Kapsalon;Star Kebab;51.3216802;4.9367899;8.16
+Deliveroo;Kapsalon;Snackbar 109;51.20390399999999;4.394543;8.17
+Takeaway;Kapsalon;La Rose;51.2180206;4.4181578;8.2
+Deliveroo;Kapsalon;Frituur De Gitschotel;51.2003843;4.4406962;8.25
+Uber Eats;Kapsalon;Snack gurso;50.872596506878565;4.390637865145786;8.25
+Uber Eats;Kapsalon;Pita Moorselbaan;50.9421559;4.04657;8.25
+Uber Eats;Kapsalon;Pitta House 2;50.86891;4.31126;8.25
+Uber Eats;Kapsalon;Frituur De Gitschotel;51.200447;4.441138;8.25
+Takeaway;Kapsalon;Friterie Dailly;50.8529716;4.3882698;8.25
+Takeaway;Kapsalon;Frituur De Gitschotel;51.2003641;4.4406549;8.25
+Takeaway;Kapsalon;Pitta House 2;50.868915;4.3112619;8.25
+Takeaway;Kapsalon;Restaurant Medina;51.1867237;4.3865355;8.25
+Takeaway;Kapsalon;Snack Antalya;50.7897166;4.2983155;8.25
+Takeaway;Kapsalon;Viva la Snack;50.80947;3.1851952;8.25
+Uber Eats;Kapsalon;Snack Pizza Zen;50.9276422156451;4.433235861361027;8.29
+Uber Eats;Kapsalon;Sultan kebab;51.01875;4.48317;8.29
+Takeaway;Kapsalon;Egmont Snack;51.0224244;4.4820092;8.29
+Uber Eats;Kapsalon;Sweet deli;50.844020971804625;4.31348056115117;8.3
+Takeaway;Kapsalon;La Casa Snack;51.1647761;4.1415672;8.3
+Takeaway;Kapsalon;Atlas Lunch en Grillroom;51.199245;3.811369;8.31
+Deliveroo;Kapsalon;Antwerp Kebab;51.2220568;4.4131116;8.33
+Uber Eats;Kapsalon;Antwerp Kebab;51.221695;4.4133263;8.33
+Uber Eats;Kapsalon;Eethuis Van Gogh;51.18412;4.42715;8.33
+Takeaway;Kapsalon;Antwerp Kebab;51.2219602;4.4134255;8.33
+Takeaway;Kapsalon;Eethuis Van Gogh;51.1841675;4.4271969;8.33
+Takeaway;Kapsalon;Noor Pizza;50.8078304;3.2801325;8.33
+Takeaway;Kapsalon;Pitta Snack Waarschoot;51.1516652;3.6077882;8.33
+Takeaway;Kapsalon;Snack Grill Pizza Asalam;50.9294474;4.4278192;8.33
+Uber Eats;Kapsalon;Huzur Kebab - Lille;51.23214;4.8317;8.38
+Takeaway;Kapsalon;Pizza Metin;50.8964317;4.8248638;8.38
+Takeaway;Kapsalon;Rifaga;51.1865467;4.3749696;8.38
+Takeaway;Kapsalon;Snack Bruxelles;50.8686346;4.374455;8.39
+Takeaway;Kapsalon;Pita Pizza Pyramide;51.0847842;3.4483041;8.4
+Uber Eats;Kapsalon;Elit;51.22599;4.40095;8.43
+Takeaway;Kapsalon;Pita Planet;51.1639517;4.1394059;8.44
+Uber Eats;Kapsalon;Ali baba kebab;51.21913;4.42011;8.48
+Deliveroo;Kapsalon;Bawabet Demashq;51.2257173;4.4233361;8.5
+Deliveroo;Kapsalon;Samet snack grill;50.87126980000001;4.399716199999999;8.5
+Deliveroo;Kapsalon;Memo's;50.7174088;4.3962768;8.5
+Deliveroo;Kapsalon;kebab Leuven Diestsestraat;50.88035559999999;4.7055925;8.5
+Uber Eats;Kapsalon;Mama Eethuis;50.82496;3.27199;8.5
+Uber Eats;Kapsalon;Snack evere;50.87125;4.39973;8.5
+Uber Eats;Kapsalon;King Pizza & More;51.15955;4.14405;8.5
+Uber Eats;Kapsalon;Donerland;51.24508;4.44745;8.5
+Uber Eats;Kapsalon;Snack Grill Babylone;50.7997492;4.33645;8.5
+Uber Eats;Kapsalon;Pizza Masters ;51.18811;5.12056;8.5
+Uber Eats;Kapsalon;Pizzalijn Merksem;51.23866;4.44156;8.5
+Uber Eats;Kapsalon;Snack Dem's;50.82777;4.3017688;8.5
+Uber Eats;Kapsalon;Pizzeria Fullmoon;51.05801;3.70674;8.5
+Uber Eats;Kapsalon;Pizza Hot;51.05791;3.70678;8.5
+Uber Eats;Kapsalon;NAZ Kebab;51.2163032;4.39924;8.5
+Takeaway;Kapsalon;Amari's;51.215942;4.3292193;8.5
+Takeaway;Kapsalon;Bursa Kebab;51.060844;3.701226;8.5
+Takeaway;Kapsalon;De Hoek Van Marrakech;50.9092739;4.3519413;8.5
+Takeaway;Kapsalon;Eethuis Royale;51.21175;4.4283533;8.5
+Takeaway;Kapsalon;Frituur Overpoort;51.0405731;3.725505;8.5
+Takeaway;Kapsalon;Kebap Food;50.8739395;4.3145004;8.5
+Takeaway;Kapsalon;King Pizza & More;51.1595353;4.1439857;8.5
+Takeaway;Kapsalon;King Potato;51.1341236;4.3864343;8.5
+Takeaway;Kapsalon;Pita Antalya;50.994568;3.3257418;8.5
+Takeaway;Kapsalon;Pizza Napoli;50.8418517;4.9459863;8.5
+Takeaway;Kapsalon;Pizza Taliano;50.8154097;3.3179776;8.5
+Takeaway;Kapsalon;Pizzeria Lyaz;51.0369563;2.8714629;8.5
+Takeaway;Kapsalon;Selale Pitta & Grill;51.0638718;3.7095352;8.5
+Takeaway;Kapsalon;Snack Alsemberg;50.8156131;4.3400529;8.5
+Takeaway;Kapsalon;Snack Au Petit Creux;50.8518175;4.3850787;8.5
+Takeaway;Kapsalon;Choco Pitta;50.8669031;4.3582998;8.5
+Takeaway;Kapsalon;Snack Dag;50.8591069;4.3796936;8.5
+Takeaway;Kapsalon;Snack Evere;50.8712543;4.3996881;8.5
+Takeaway;Kapsalon;Snack Houwaert;50.8527175;4.373779;8.5
+Takeaway;Kapsalon;Snack les 2 Frères;50.8572749;4.3730178;8.5
+Takeaway;Kapsalon;Snack Papay;50.8367019;4.3808233;8.5
+Takeaway;Kapsalon;Turkish Kebap;50.8778404;4.4096982;8.5
+Uber Eats;Kapsalon;Only Kebap;51.2212584;4.4024951;8.53
+Uber Eats;Kapsalon;Egmont Snack;51.02239;4.48192;8.55
+Deliveroo;Kapsalon;eetcafé panorama;51.2152661;4.4378506;8.56
+Takeaway;Kapsalon;Lunch Factory;50.8364735;4.3392771;8.57
+Takeaway;Kapsalon;Snack Derya;50.848743;4.3189361;8.59
+Takeaway;Kapsalon;MARHABA;51.0435964;3.9117998;8.6
+Takeaway;Kapsalon;Miro's snack;50.8716804;4.4002252;8.6
+Deliveroo;Kapsalon;Snack Ayouni;51.2274273;4.4547623;8.63
+Uber Eats;Kapsalon;Snack Cassaba;50.87645752675995;4.4066644807685815;8.63
+Takeaway;Kapsalon;Snack Cassaba;50.8765373;4.4066588;8.63
+Takeaway;Kapsalon;Snack Ayouni;51.2273916;4.4547647;8.63
+Uber Eats;Kapsalon;Ottoman BBQ;51.0611;3.69323;8.67
+Takeaway;Kapsalon;Ali Baba;51.1344772;4.5701273;8.67
+Takeaway;Kapsalon;Pizza Paleis Haasdonk;51.1798851;4.2334942;8.67
+Deliveroo;Kapsalon;Snack Nakhil;51.2179812;4.428862899999999;8.68
+Uber Eats;Kapsalon;Snack nakhil;51.21803;4.42875;8.68
+Uber Eats;Kapsalon;Pitta Bodrum;50.831;3.25553;8.7
+Uber Eats;Kapsalon;Fast2go ;51.02844;4.4783;8.7
+Takeaway;Kapsalon;Pitta Moorselbaan;50.9421771;4.0466792;8.7
+Takeaway;Kapsalon;Sardinië;51.1344736;4.5655313;8.7
+Deliveroo;Kapsalon;yalcin snacks;50.94283;3.124207;8.75
+Uber Eats;Kapsalon;NewWay;50.87983;4.70054;8.75
+Uber Eats;Kapsalon;Cicek Kebab;50.83326;4.32852;8.75
+Takeaway;Kapsalon;Pim's Burger;50.8405877;4.3322309;8.75
+Takeaway;Kapsalon;Snack Bodrum;50.9285905;4.4218529;8.75
+Takeaway;Kapsalon;Snack Tour et Taxi;50.8635228;4.3443448;8.79
+Uber Eats;Kapsalon;Samoo baba;51.21901;2.90793;8.8
+Uber Eats;Kapsalon;Best Fresh ;50.7713494;4.5350813;8.8
+Uber Eats;Kapsalon;Meydaan;51.16472;4.14158;8.8
+Takeaway;Kapsalon;Eetcafé Ossendrecht;51.3937523;4.3295408;8.8
+Takeaway;Kapsalon;Pizza Punto;50.8474702;4.8209022;8.8
+Takeaway;Kapsalon;Shaan pizza;51.0971005;3.2095149;8.8
+Takeaway;Kapsalon;Cicek kebab;50.8332944;4.3285403;8.82
+Uber Eats;Kapsalon;Ali Baba Mechelen;51.018564;4.48254;8.83
+Uber Eats;Kapsalon;Liva Kebab;51.2025914;4.3899234;8.83
+Takeaway;Kapsalon;Frituur Karin;50.96179;4.4555063;8.83
+Takeaway;Kapsalon;Snack Aquarium;50.8243819;4.4004368;8.83
+Takeaway;Kapsalon;Snack Boss;50.9420067;4.0351025;8.83
+Uber Eats;Kapsalon;Pizza Napoli Kontich;51.13204;4.44694;8.86
+Takeaway;Kapsalon;Salt n' Pepper Snack Burgerhouse;51.2198804;4.4385031;8.86
+Deliveroo;Kapsalon;Ali Baba;50.8788881;4.700082999999999;8.88
+Deliveroo;Kapsalon;Uniq Kebab;51.0268966;3.7218444;8.88
+Uber Eats;Kapsalon;Pizza Vali;51.2268;4.51877;8.89
+Deliveroo;Kapsalon;Tasty World Hoogpoort;51.055791;3.7225961;8.9
+Deliveroo;Kapsalon;Pizza Sole Mio;50.878939;4.700267999999999;8.9
+Uber Eats;Kapsalon;Pizza Florence;51.135663185273565;4.443796606979154;8.9
+Uber Eats;Kapsalon;Pizzalijn Berchem;51.19851;4.4315;8.9
+Uber Eats;Kapsalon;Tasty World;51.0556705;3.7228147;8.9
+Takeaway;Kapsalon;Valento Pizzeria;51.1402858;4.3375162;8.9
+Deliveroo;Kapsalon;Bogaz Kebab;50.94920579999999;3.1317448;8.92
+Takeaway;Kapsalon;Snack Ailnor;50.9494353;3.1313294;8.94
+Deliveroo;Kapsalon;Pitta ;50.8252119;3.2646587;8.95
+Uber Eats;Kapsalon;Snackbar 9000;51.0497258;3.7318555;8.95
+Takeaway;Kapsalon;King Pizza Vilvoorde;50.929214;4.4269543;8.95
+Takeaway;Kapsalon;Mixor Kebab;51.2192348;4.4203085;8.98
+Deliveroo;Kapsalon;Damasveneto;51.2207499;4.4266288;8.99
+Takeaway;Kapsalon;Best Fresh;50.7713494;4.5350813;8.99
+Deliveroo;Kapsalon;Masala Express;50.8083945;3.279237;9.0
+Deliveroo;Kapsalon;Grand Basha;51.22195439999999;3.2077884;9.0
+Deliveroo;Kapsalon;Snack Canlar;50.929419;4.4221315;9.0
+Deliveroo;Kapsalon;Sfinx Turnhout;51.3220649;4.952329;9.0
+Deliveroo;Kapsalon;Broodjeszaak PAINDOR;50.9304853;5.343439099999999;9.0
+Uber Eats;Kapsalon;Kebap Food;50.87394;4.3145;9.0
+Uber Eats;Kapsalon;Ghoshto Eethuis;51.19642;4.44363;9.0
+Uber Eats;Kapsalon;My Pizza;50.82515356342085;3.264678195118904;9.0
+Uber Eats;Kapsalon;Grand Basha Brugge;51.22202;3.20787;9.0
+Uber Eats;Kapsalon;PALMIRA RESTAURANT;51.21822;4.41831;9.0
+Uber Eats;Kapsalon;Resto Ky;51.09036;3.7163;9.0
+Uber Eats;Kapsalon;Mixor Kebab;51.21893;4.42001;9.0
+Uber Eats;Kapsalon;Best Kebab;51.2325423;2.9166375;9.0
+Uber Eats;Kapsalon;D'oude Stad;51.2203;4.39974;9.0
+Uber Eats;Kapsalon;Sfinx;51.32196;4.95232;9.0
+Takeaway;Kapsalon;Ali Baba - Chez Assaad;50.8078796;4.2887373;9.0
+Takeaway;Kapsalon;Ali Pizzahuis;51.3015694;4.5703876;9.0
+Takeaway;Kapsalon;Breughelhof Cafe Bistro;51.1764672;4.3669013;9.0
+Takeaway;Kapsalon;Cesar Pizza Snack;51.042915;3.7373457;9.0
+Takeaway;Kapsalon;Damasco;50.8773949;4.703391;9.0
+Takeaway;Kapsalon;Dar Es Salaam;50.8505236;3.287144;9.0
+Takeaway;Kapsalon;Eric's Burger & Streetfood;50.8577828;4.3642117;9.0
+Takeaway;Kapsalon;Family;50.8766627;4.3405033;9.0
+Takeaway;Kapsalon;Frituur Nou Nou;51.1321495;4.5668378;9.0
+Takeaway;Kapsalon;Frituur 't Bekske;51.0407393;5.2817897;9.0
+Takeaway;Kapsalon;Kokorecci Antwerpen;51.2021287;4.3928709;9.0
+Takeaway;Kapsalon;La Palmeraie;50.7874891;3.1269461;9.0
+Takeaway;Kapsalon;Madina food;50.856793;4.3752124;9.0
+Takeaway;Kapsalon;Marrakech;50.8703965;4.3717317;9.0
+Takeaway;Kapsalon;Masala Express;50.8083945;3.279237;9.0
+Takeaway;Kapsalon;Maxx Pizza;51.1772165;4.8330195;9.0
+Takeaway;Kapsalon;Miss Pizza;51.2162709;4.2514887;9.0
+Takeaway;Kapsalon;Mister Pizza;50.992883;3.7468562;9.0
+Takeaway;Kapsalon;Pain d'Or;50.9304853;5.3434391;9.0
+Takeaway;Kapsalon;Pitta Bon Appetit;51.2318024;2.9144097;9.0
+Takeaway;Kapsalon;Pitta Melissa;51.0372872;3.7404987;9.0
+Takeaway;Kapsalon;Mezopotamya;50.8204079;3.2843159;9.0
+Takeaway;Kapsalon;Pizza Pasta Locale;51.2233233;4.4369035;9.0
+Takeaway;Kapsalon;Pizza Pita Zottegem;50.8684049;3.8137421;9.0
+Takeaway;Kapsalon;Pizza Point;51.2197869;4.3823975;9.0
+Takeaway;Kapsalon;Sfinx;51.3221189;4.9524556;9.0
+Takeaway;Kapsalon;Snack Au Bled;50.8701326;4.372873;9.0
+Takeaway;Kapsalon;Snack Centraal;51.2145585;4.4351753;9.0
+Takeaway;Kapsalon;Snack de la Gare;50.69229;4.2052684;9.0
+Takeaway;Kapsalon;Snack Istanbul;50.7170552;4.6070235;9.0
+Takeaway;Kapsalon;Snack Lems;50.821392;4.2943516;9.0
+Takeaway;Kapsalon;Snack Medo;51.2076189;4.4280825;9.0
+Takeaway;Kapsalon;Snack Merode;50.8386936;4.3977664;9.0
+Takeaway;Kapsalon;Snack Mirvan;50.8352676;4.3084661;9.0
+Takeaway;Kapsalon;Snack Stuivenberg;51.222267;4.436264;9.0
+Takeaway;Kapsalon;Snack Wielemans;50.8243939;4.327402;9.0
+Uber Eats;Kapsalon;Containerke;51.13044;4.37451;9.05
+Takeaway;Kapsalon;Only Kebab;51.22128;4.4026248;9.05
+Uber Eats;Kapsalon;Pitta Palace;51.028563216805516;4.480282875330187;9.06
+Takeaway;Kapsalon;Pitta Palace;51.0286668;4.4803971;9.06
+Takeaway;Kapsalon;Snack 4 You;50.8309809;4.4520538;9.06
+Takeaway;Kapsalon;Snack Resto Istanbul;50.9118822;4.4350511;9.07
+Takeaway;Kapsalon;Snack Arc en Ciel;50.8714801;4.4008113;9.07
+Takeaway;Kapsalon;Pizza Bella Pitta;51.189492;2.8307733;9.08
+Takeaway;Kapsalon;Pacha Kebab;50.8255249;4.2977704;9.08
+Deliveroo;Kapsalon;Frituur Nationale;51.2137655;4.3978625;9.1
+Takeaway;Kapsalon;Frituur Nationale;51.213764;4.3978624;9.1
+Takeaway;Kapsalon;Pita 't Krokantje;0.0;0.0;9.1
+Takeaway;Kapsalon;Pizza Zandhoven;51.2143253;4.65802;9.1
+Takeaway;Kapsalon;Snack Bodrum;50.882133;4.4725341;9.1
+Takeaway;Kapsalon;Fast 2 Go;51.0284808;4.4782928;9.11
+Deliveroo;Kapsalon;Snack Halte;51.0392768;3.725784;9.13
+Uber Eats;Kapsalon;Best Grill;50.83558;4.29991;9.13
+Takeaway;Kapsalon;Kebab Leuven;50.8803556;4.7055925;9.13
+Takeaway;Kapsalon;La Maison du Kebab;50.8354388;4.2999718;9.13
+Uber Eats;Kapsalon;Hapjes Time;51.32141;4.93709;9.14
+Deliveroo;Kapsalon;Only Kebab;51.22128;4.4026248;9.15
+Uber Eats;Kapsalon;Lunch Halte;51.2437065;4.4433324;9.15
+Uber Eats;Kapsalon;Pitta D'Or;50.8940277;4.3826189;9.17
+Takeaway;Kapsalon;Snack la Cambre;50.8012434;4.3735706;9.17
+Takeaway;Kapsalon;Snack Tielt;50.9984585;3.3270373;9.17
+Takeaway;Kapsalon;Beyzade;51.2245014;4.4167564;9.18
+Takeaway;Kapsalon;Best Grill Molenbeek;50.8574331;4.3105647;9.2
+Takeaway;Kapsalon;Frituur Koningslo;50.912605;4.372477;9.2
+Takeaway;Kapsalon;Pala's Food;50.873455;4.3134475;9.2
+Takeaway;Kapsalon;Snack Des Frères;50.8714998;4.3839557;9.2
+Takeaway;Kapsalon;Suslu by Tuna;50.8731519;4.3869141;9.2
+Deliveroo;Kapsalon;Arabesque ;51.20767739999999;4.4650981;9.21
+Takeaway;Kapsalon;Hanelly Food;50.8310437;4.3444473;9.21
+Takeaway;Kapsalon;Mc'Döner'S;50.8144757;4.3658038;9.21
+Takeaway;Kapsalon;Snack Deniz;51.0412191;3.7253941;9.22
+Takeaway;Kapsalon;Fresh Pita;51.1620708;4.1413516;9.24
+Deliveroo;Kapsalon;Kebab Leuven;50.88036899999999;4.7055851;9.25
+Uber Eats;Kapsalon;Everest Quick Food;50.8992074;4.6809435;9.25
+Uber Eats;Kapsalon;Post'a Kebab;50.90735;4.20531;9.25
+Takeaway;Kapsalon;Elif Grill Huis;51.1706303;4.4492091;9.25
+Takeaway;Kapsalon;Il Viadotto;51.2329328;4.4240106;9.25
+Takeaway;Kapsalon;Noumidia Resto;51.323803;4.947664;9.25
+Takeaway;Kapsalon;Snack Dekan;50.8800921;4.3296928;9.25
+Takeaway;Kapsalon;Snack Istanbul;50.866702;4.3775992;9.25
+Takeaway;Kapsalon;Snack Pizza City;50.9095302;4.354658;9.25
+Takeaway;Kapsalon;Tadim Kumpir;50.859793;4.3766128;9.25
+Takeaway;Kapsalon;Tradita;51.1605694;4.1507192;9.25
+Uber Eats;Kapsalon;Broodjescorner;51.31533;4.94977;9.28
+Deliveroo;Kapsalon;Sultan kebab ;51.018772;4.4831088;9.29
+Uber Eats;Kapsalon;Mila Palace;51.24641;4.45034;9.29
+Takeaway;Kapsalon;Bodrum Palace;51.224524;4.4169147;9.29
+Takeaway;Kapsalon;Mila Palace;51.2456912;4.4478081;9.29
+Uber Eats;Kapsalon;Eat Point;50.79381;5.22048;9.3
+Takeaway;Kapsalon;Loco Pizza;50.8784156;4.699806;9.3
+Takeaway;Kapsalon;Loco Pizza 2;50.87404;4.7090521;9.3
+Takeaway;Kapsalon;Pizza Pita Delta;51.0576267;3.7071178;9.3
+Uber Eats;Kapsalon;Aelia Capitolina;50.90692;4.67377;9.31
+Takeaway;Kapsalon;Aras Kontich Snack;51.1326595;4.4462483;9.31
+Takeaway;Kapsalon;Best Grill;50.8355777;4.2999137;9.32
+Takeaway;Kapsalon;Napoli;51.1326409;4.335473;9.32
+Deliveroo;Kapsalon;Pita Xander ;51.2085448;3.2226075;9.33
+Uber Eats;Kapsalon;Cesar Pizza Gent;51.0429;3.7373;9.33
+Uber Eats;Kapsalon;Pitta Snack Metropol;51.0234;3.72028;9.33
+Takeaway;Kapsalon;Ghoshto Eethuis;51.196373;4.443489;9.33
+Takeaway;Kapsalon;Pizzaworld;51.2082731;4.4492776;9.33
+Takeaway;Kapsalon;Resto Snack Istanbul;50.920698;3.2155599;9.33
+Takeaway;Kapsalon;Zem Zem;51.3156801;3.1292305;9.33
+Uber Eats;Kapsalon;Adana Kebab;51.0291061;4.4884294;9.36
+Takeaway;Kapsalon;Snack Cherif;50.8774576;4.3489332;9.38
+Uber Eats;Kapsalon;Pizza Aurelia Restaurant;51.0713194;3.7306285;9.39
+Uber Eats;Kapsalon;Snack Deniz II;51.0412608;3.7254743;9.39
+Deliveroo;Kapsalon;Master Kebab;51.203775;3.208446;9.4
+Uber Eats;Kapsalon;Snack Mirvan;50.8351755;4.3085427;9.4
+Takeaway;Kapsalon;Snack Dayi;50.909688;4.193773;9.4
+Uber Eats;Kapsalon;Pita Mersan;51.103759407597664;3.988229157999711;9.41
+Takeaway;Kapsalon;Eethuis Istanbul;51.3141468;4.9438156;9.42
+Uber Eats;Kapsalon;Reet Grill House;51.11002;4.3696;9.43
+Takeaway;Kapsalon;Pitta Istanbul;50.7118857;3.8347091;9.43
+Deliveroo;Kapsalon;Pitta House;50.8252855;3.2649506;9.45
+Uber Eats;Kapsalon;Pizza - Pasta - Pita Mazador;51.2187;4.42411;9.45
+Takeaway;Kapsalon;What the Kebab;51.219982;4.4150385;9.45
+Takeaway;Kapsalon;Dinner&You Burgers, Grill & More;51.170444;3.8599658;9.46
+Takeaway;Kapsalon;Snack Tarik;50.8701943;4.3721496;9.49
+Deliveroo;Kapsalon;Pita Huis Blauwwater;51.2074982;4.4135897;9.5
+Deliveroo;Kapsalon;King Kebab;51.2094817;3.2289341;9.5
+Deliveroo;Kapsalon;Pita Efes;51.20610413;3.21791429;9.5
+Uber Eats;Kapsalon;Snack Es Es;50.9126421;4.3724309;9.5
+Uber Eats;Kapsalon;Ti'hamo;51.254;4.50265;9.5
+Uber Eats;Kapsalon;Adana Kebab Brugge;51.20943;3.229208;9.5
+Uber Eats;Kapsalon;B@H - Burger At Home;50.93336;4.53792;9.5
+Uber Eats;Kapsalon;La Famiglia;50.98347378654782;4.461487494242663;9.5
+Uber Eats;Kapsalon;Konya kebab;51.22055;4.40188;9.5
+Uber Eats;Kapsalon;Bodrum Palace;51.22443;4.41686;9.5
+Uber Eats;Kapsalon;Napoli Schoten;51.2547943;4.503681;9.5
+Takeaway;Kapsalon;Allo Pizza;50.7712832;3.0456823;9.5
+Takeaway;Kapsalon;Anatolie's;51.1166965;3.7142608;9.5
+Takeaway;Kapsalon;Burger at Home;50.9333642;4.5379418;9.5
+Takeaway;Kapsalon;Cleopatra;50.8559926;2.7291697;9.5
+Takeaway;Kapsalon;Couleur Safran;50.7871651;4.3295849;9.5
+Takeaway;Kapsalon;Le Kasseria;0.0;0.0;9.5
+Takeaway;Kapsalon;Marmara;51.2009456;3.8055828;9.5
+Takeaway;Kapsalon;Nisa Pita & Kebab;51.2080005;4.4643167;9.5
+Takeaway;Kapsalon;O'Couscous;50.7951364;4.3212211;9.5
+Takeaway;Kapsalon;Petit palais;50.8567628;4.3729156;9.5
+Takeaway;Kapsalon;Pita & Pizza Ela;50.8728694;3.1824152;9.5
+Takeaway;Kapsalon;Pitta 03;51.0386761;3.7102649;9.5
+Takeaway;Kapsalon;Pizza Mr. Food;51.1544825;3.2358945;9.5
+Takeaway;Kapsalon;Pyramide grillroom pizza pita pasta;51.227605;4.5182991;9.5
+Takeaway;Kapsalon;Resto Borsa;51.18893;4.4331958;9.5
+Takeaway;Kapsalon;Snack Araff;50.864184;4.3659068;9.5
+Takeaway;Kapsalon;Snack Gold;50.9302208;4.4264047;9.5
+Takeaway;Kapsalon;Snack Ledi;50.8800869;4.3472217;9.5
+Takeaway;Kapsalon;Snack Melita;50.7962682;3.1212188;9.5
+Takeaway;Kapsalon;Snack Mutsaert;50.9013694;4.3608428;9.5
+Takeaway;Kapsalon;Snack de la Famille;50.8361415;4.3154125;9.5
+Takeaway;Kapsalon;Sultan;51.018772;4.483109;9.5
+Takeaway;Kapsalon;The Cousin's;50.8799181;4.3292771;9.5
+Takeaway;Kapsalon;Nino Grill;50.8364771;4.0263442;9.56
+Takeaway;Kapsalon;Snack Twins;50.8025734;4.3411907;9.56
+Takeaway;Kapsalon;New City;51.0211834;5.4712118;9.6
+Deliveroo;Kapsalon;Tito;51.2251116;4.4047447;9.62
+Uber Eats;Kapsalon;Friterie Ylli - Bruxelles;50.89521;4.372;9.63
+Takeaway;Kapsalon;Amon;51.1829676;4.3842068;9.63
+Takeaway;Kapsalon;Cook Mazi;51.027973;4.4791218;9.63
+Takeaway;Kapsalon;Snack Taksim;50.8669161;4.3761611;9.63
+Deliveroo;Kapsalon;ROYAL PIZZA (Kortrijk 2022);50.83481310000001;3.2514619;9.67
+Uber Eats;Kapsalon;Pizzeria Lina;51.18616;4.38731;9.67
+Uber Eats;Kapsalon;Delicio Snack;50.8984698;4.3623259;9.67
+Takeaway;Kapsalon;Twins;50.7738295;4.886823;9.67
+Deliveroo;Kapsalon;grillmixcentrum;51.050273;3.730271;9.7
+Takeaway;Kapsalon;Grill Mix Centrum;51.050273;3.730271;9.7
+Takeaway;Kapsalon;'t Stad Kebab;51.2124675;4.4076701;9.71
+Deliveroo;Kapsalon;Mam's burger;50.9008021;4.3607906;9.75
+Deliveroo;Kapsalon;EL BARAKA antwerp;51.2221673;4.435703;9.75
+Uber Eats;Kapsalon;Snack el baraka;51.2223336;4.4356959;9.75
+Uber Eats;Kapsalon;Mam's Burger;50.9008007;4.3607886;9.75
+Takeaway;Kapsalon;Broodjescorner;51.3153417;4.9499194;9.75
+Takeaway;Kapsalon;Pitta & Pizza Izmir Eeklo;51.181997;3.5726984;9.75
+Takeaway;Kapsalon;Pizza Grens;51.4447886;4.9250641;9.75
+Takeaway;Kapsalon;SixtyOne;51.1687661;3.8579406;9.75
+Takeaway;Kapsalon;Snack Saint-Guidon 2012;50.8349281;4.3061951;9.75
+Uber Eats;Kapsalon;Mks Food Like Home;50.80029732375358;4.317389008693414;9.79
+Takeaway;Kapsalon;Food Like Home;50.8004216;4.3173681;9.79
+Takeaway;Kapsalon;Pizzalijn Merksem;51.2387006;4.441577;9.79
+Takeaway;Kapsalon;'t Hoekske;50.7841913;5.474018;9.8
+Deliveroo;Kapsalon;t Stad Kebab;51.2124675;4.4076701;9.81
+Uber Eats;Kapsalon;Snack Mevan - Meiser;50.855393;4.3997117;9.83
+Takeaway;Kapsalon;Mehtap;51.22145;4.4618373;9.83
+Takeaway;Kapsalon;Pizza Company;51.21308;4.257836;9.83
+Uber Eats;Kapsalon;Pamukkale II - Pitta;51.12676;4.21261;9.85
+Uber Eats;Kapsalon;Pitta Pizza Pamukkale II;51.12723;4.21209;9.85
+Deliveroo;Kapsalon;La Dany;51.2069524;4.415094799999999;9.86
+Uber Eats;Kapsalon;Pokerfriet;50.98787;4.78533;9.86
+Deliveroo;Kapsalon;Brugge Kebab;51.2100923;3.2231422;9.88
+Takeaway;Kapsalon;Alex Grill House;50.9115883;4.1956724;9.88
+Takeaway;Kapsalon;Pitaverne;51.2023183;4.4855979;9.88
+Takeaway;Kapsalon;Pizza Pitta Melissa;51.0661099;4.034365;9.88
+Takeaway;Kapsalon;Pizza La Famiglia;50.983724;4.461841;9.88
+Takeaway;Kapsalon;Pizzeria Grillroom Dudi;51.0958982;5.7928862;9.88
+Takeaway;Kapsalon;El Baraka;51.2222301;4.4356682;9.89
+Takeaway;Kapsalon;Merdin 3;50.9925856;4.7061002;9.89
+Uber Eats;Kapsalon;La Monte Carlo;51.2309394;4.4064993;9.9
+Uber Eats;Kapsalon;Pizza Monza;51.20473;4.52347;9.9
+Uber Eats;Kapsalon;Compo's;50.9008;4.36079;9.9
+Uber Eats;Kapsalon;Snack Hakan;50.8684606;4.31202;9.9
+Takeaway;Kapsalon;Dilsu Pizza Pitta;51.0599073;4.3605483;9.9
+Takeaway;Kapsalon;Food King;50.8455292;4.2840575;9.9
+Takeaway;Kapsalon;Kaya Pitta;0.0;0.0;9.9
+Takeaway;Kapsalon;Lunch Halte;51.2437152;4.4433173;9.9
+Takeaway;Kapsalon;Pizza Monza;51.2041539;4.5231233;9.9
+Takeaway;Kapsalon;Snack Bockstael;0.0;0.0;9.9
+Takeaway;Kapsalon;Snack Hakan;50.8686357;4.3122373;9.9
+Takeaway;Kapsalon;Pizza Sara;51.0912225;4.1360277;9.93
+Takeaway;Kapsalon;Pizza Stop;51.0388277;3.7465613;9.93
+Takeaway;Kapsalon;Snack Aalst;50.9399256;4.0258409;9.94
+Takeaway;Kapsalon;Pizza Maestro Belsele;51.14608;4.0850115;9.95
+Takeaway;Kapsalon;Ealaa Kayfik;51.2181348;4.4199321;9.99
+Deliveroo;Kapsalon;Damasco Leuven;50.8773949;4.703391;10.0
+Deliveroo;Kapsalon;Pitta efes Assebroek;51.20080978;3.245848471;10.0
+Deliveroo;Kapsalon;Pitta Corner Oostende;51.23376400000001;2.9161473;10.0
+Deliveroo;Kapsalon;Samoo Baba Tacos Kebab & Grill;51.2190249;2.9078665;10.0
+Deliveroo;Kapsalon;Barbercue Duhok;51.060491;3.7103738;10.0
+Deliveroo;Kapsalon;King kebab;51.2094748;3.22894;10.0
+Deliveroo;Kapsalon;pita pizza waterpoort;51.2077784;4.3887721;10.0
+Deliveroo;Kapsalon;Snack Délice Halal;50.8039908;4.3364598;10.0
+Deliveroo;Kapsalon;Grill&service;50.8820908;4.713553999999999;10.0
+Deliveroo;Kapsalon;MY PIZZA (KOR);50.8252362;3.2645729;10.0
+Uber Eats;Kapsalon;Merdin Kebab;50.94985;4.71249;10.0
+Uber Eats;Kapsalon;Pitta Bon Appetit;51.2318024;2.9144097;10.0
+Uber Eats;Kapsalon;Mobs Grillpizza ;50.87052;4.26733;10.0
+Uber Eats;Kapsalon;Giovanniâ€™s Ekeren;51.2818;4.41795;10.0
+Uber Eats;Kapsalon;Couleur Safran;50.7871592;4.3296668;10.0
+Uber Eats;Kapsalon;Grillmixcentrum;51.050273;3.730271;10.0
+Uber Eats;Kapsalon;Baguette & Salad Bar;50.87795;4.69879;10.0
+Uber Eats;Kapsalon;Sphinx;51.2463889;4.4491667;10.0
+Uber Eats;Kapsalon;Mr Ribs;51.31302;4.4294;10.0
+Uber Eats;Kapsalon;Shawarma Doctor;51.21318;4.3975;10.0
+Uber Eats;Kapsalon;Beko's;51.19835;4.42706;10.0
+Uber Eats;Kapsalon;Pita De Waterpoort;51.20781;4.38874;10.0
+Uber Eats;Kapsalon;King kebab;51.20942;3.22904;10.0
+Takeaway;Kapsalon;Apollo Pizza;50.9100396;4.1993064;10.0
+Takeaway;Kapsalon;Burger House;51.061226;4.361404;10.0
+Takeaway;Kapsalon;Frituur De Petaat;51.2141448;4.4101504;10.0
+Takeaway;Kapsalon;El Nacho's;50.9412639;4.0392034;10.0
+Takeaway;Kapsalon;Food Box;51.2234184;2.9064047;10.0
+Takeaway;Kapsalon;Frituur Anita;50.95023;4.0558586;10.0
+Takeaway;Kapsalon;Frituur Statie;51.1992501;4.4287476;10.0
+Takeaway;Kapsalon;Grill Bar - The Shake;50.88357;4.081533;10.0
+Takeaway;Kapsalon;Hakko;50.8580323;4.3188731;10.0
+Takeaway;Kapsalon;Italian Delights;50.9493699;3.2893233;10.0
+Takeaway;Kapsalon;Izmir Snacks;51.2545203;5.4785896;10.0
+Takeaway;Kapsalon;Kebab Company;50.8813682;4.7156895;10.0
+Takeaway;Kapsalon;King Kebab;51.2094748;3.22894;10.0
+Takeaway;Kapsalon;Le Cerisier;50.84671;4.4136806;10.0
+Takeaway;Kapsalon;Les 4 Goûts;50.8596365;4.3409006;10.0
+Takeaway;Kapsalon;Liya Kebab & Pizzaria;51.3320877;4.3652936;10.0
+Takeaway;Kapsalon;Njam Njam Pizza;51.0867384;3.4484218;10.0
+Takeaway;Kapsalon;Miam's Burger;50.8297152;4.3433057;10.0
+Takeaway;Kapsalon;Mr. Ribs;51.3129515;4.4294497;10.0
+Takeaway;Kapsalon;Nasip;50.8888527;5.527032;10.0
+Takeaway;Kapsalon;Pakistan Royal Food;51.2337942;2.9164435;10.0
+Takeaway;Kapsalon;Palmira Restaurant;51.2182671;4.4183326;10.0
+Takeaway;Kapsalon;Pita Pizza Pasta Ararat;50.9613236;4.4549823;10.0
+Takeaway;Kapsalon;Pitta Corner;51.2337831;2.9164431;10.0
+Takeaway;Kapsalon;Pitta Diana;51.185037;3.5638525;10.0
+Takeaway;Kapsalon;Pizza De Hoek;51.071335;3.7306783;10.0
+Takeaway;Kapsalon;Pizza Diamond;51.0017346;3.751311;10.0
+Takeaway;Kapsalon;Pizza Ozy;51.1325761;3.6796668;10.0
+Takeaway;Kapsalon;Pizza Palace Fastfood;51.0017551;3.8777948;10.0
+Takeaway;Kapsalon;Pizza&Co;50.7805606;3.1251744;10.0
+Takeaway;Kapsalon;Pyramida - Grill;50.98005;3.5329998;10.0
+Takeaway;Kapsalon;Sali Kebap;50.7802657;5.4635312;10.0
+Takeaway;Kapsalon;Snack Joker;50.8634042;4.3774531;10.0
+Takeaway;Kapsalon;Snack Memo - Chez Feyyaz;50.860157;4.371001;10.0
+Takeaway;Kapsalon;Snack Mimoza;50.8880768;4.3398709;10.0
+Takeaway;Kapsalon;Snack Oostende;51.2296711;2.9191153;10.0
+Takeaway;Kapsalon;Snack Tip Top;50.8133607;4.3386547;10.0
+Takeaway;Kapsalon;Sofra;50.9644592;5.69626;10.0
+Takeaway;Kapsalon;Turkuaz Kebap;50.8493196;4.3741259;10.0
+Takeaway;Kapsalon;Big Bite;51.2028147;4.4838906;10.02
+Uber Eats;Kapsalon;Kebab Time;51.20393;3.20845;10.05
+Uber Eats;Kapsalon;Big Bite;51.20259;4.48457;10.05
+Deliveroo;Kapsalon;Pizza Roma ;51.0361601;4.475635899999999;10.07
+Uber Eats;Kapsalon;Pizza Roma;51.03617;4.47547;10.07
+Takeaway;Kapsalon;Snack Délice Halal;50.8039908;4.3364598;10.08
+Takeaway;Kapsalon;Ali Baba;51.0763479;4.721808;10.13
+Takeaway;Kapsalon;Golden Friet;51.0566182;3.7099235;10.13
+Takeaway;Kapsalon;La Dany;51.2069524;4.4150948;10.13
+Takeaway;Kapsalon;Sila Snack & Pide;51.1872698;4.4285447;10.13
+Takeaway;Kapsalon;Sewar Snack-Resto;50.8822221;4.7133678;10.16
+Takeaway;Kapsalon;Frituur De Mijn;51.0730633;5.2227106;10.17
+Takeaway;Kapsalon;Grill & Service;50.8820908;4.713554;10.17
+Takeaway;Kapsalon;Pitta Corner;51.3152888;3.1271573;10.18
+Deliveroo;Kapsalon;Andromeda;51.0402795;3.7254889;10.2
+Uber Eats;Kapsalon;Snack Zaventem;50.88213;4.47258;10.2
+Uber Eats;Kapsalon;Turkish Kebap;50.87785521725503;4.40961668423113;10.2
+Takeaway;Kapsalon;Ali Baba Restaurant;51.219015;4.4199488;10.2
+Deliveroo;Kapsalon;Couleur Safran;50.7871651;4.3295849;10.22
+Uber Eats;Kapsalon;Snack Royal - Oostende;51.21277;2.88223;10.22
+Takeaway;Kapsalon;Andromeda;51.0402796;3.7254715;10.22
+Takeaway;Kapsalon;Snack Royal;51.2127031;2.8822633;10.22
+Takeaway;Kapsalon;Snack Top's;50.818046;4.3929502;10.22
+Uber Eats;Kapsalon;Pizza Pitta Flora;51.01931;3.76404;10.24
+Uber Eats;Kapsalon;BellaVita;51.27883;4.41899;10.25
+Takeaway;Kapsalon;Bella Rosa;51.1676609;4.4521842;10.25
+Takeaway;Kapsalon;HB Resto;51.0514672;3.662672;10.25
+Takeaway;Kapsalon;Pizzeria Messina;50.9911804;4.4926872;10.25
+Takeaway;Kapsalon;Snack Simonis;50.8635911;4.3301211;10.25
+Takeaway;Kapsalon;Pizza Pasta Pita Mazador;51.21871;4.424192;10.28
+Takeaway;Kapsalon;Orient Lanaken;50.8947108;5.6650737;10.28
+Deliveroo;Kapsalon;Adana Kebab BBQ;51.0290669;4.4883672;10.29
+Takeaway;Kapsalon;Panini & Grill;51.0404918;5.3049018;10.29
+Takeaway;Kapsalon;Pizza Florence;51.135815;4.4435816;10.3
+Uber Eats;Kapsalon;Ali Baba Doner Kebab Vennestraat;50.98028;5.49165;10.33
+Takeaway;Kapsalon;Cappadocië;50.9658811;5.5022231;10.33
+Takeaway;Kapsalon;Kebaba;51.232254;5.331347;10.33
+Takeaway;Kapsalon;LivaKebab;51.2026936;4.3901947;10.33
+Takeaway;Kapsalon;Maara Uno;50.8396305;5.0213554;10.33
+Takeaway;Kapsalon;Payitaht;51.0733844;5.2258014;10.33
+Takeaway;Kapsalon;Pizza Roma;50.9236701;4.692179;10.33
+Takeaway;Kapsalon;Pizzeria Lina;51.1861375;4.3874416;10.33
+Takeaway;Kapsalon;Kadirga;51.0391626;5.3002396;10.33
+Takeaway;Kapsalon;Snack Pitta 't Hoeksken;51.002115;4.3020346;10.33
+Takeaway;Kapsalon;You You;50.9434713;3.9847027;10.33
+Takeaway;Kapsalon;Pizza Aurelia;51.071333;3.7306784;10.35
+Takeaway;Kapsalon;Cairo One;51.2146721;4.2533856;10.38
+Uber Eats;Kapsalon;Pita Cleopatra;51.1738;4.44474;10.4
+Takeaway;Kapsalon;Snack Zomergem;51.1184148;3.5611182;10.4
+Takeaway;Kapsalon;Hapjes Time;51.3214973;4.9371254;10.41
+Uber Eats;Kapsalon;Konak;51.22547;4.42269;10.44
+Takeaway;Kapsalon;Pitta Number 1;51.3125245;3.1272587;10.44
+Takeaway;Kapsalon;Brugge Kebab;51.2100923;3.2231422;10.44
+Takeaway;Kapsalon;Maestro;51.0033413;3.8004919;10.46
+Deliveroo;Kapsalon;Chez Hakan;50.8686357;4.3122373;10.47
+Takeaway;Kapsalon;Pitta Point;50.8032244;5.5709341;10.49
+Uber Eats;Kapsalon;Pizzeria Milano;51.31418;3.30235;10.5
+Uber Eats;Kapsalon;Pizzeria De Avondstar ;51.19930287323225;2.9778159811013403;10.5
+Uber Eats;Kapsalon;Foodbar Orient Kuringen;50.94172;5.30092;10.5
+Uber Eats;Kapsalon;Pitta Number 1 ;51.24864;2.96674;10.5
+Uber Eats;Kapsalon;Restaurant marmaris;51.1700074;4.3873815;10.5
+Uber Eats;Kapsalon;Pizza Pasta Nr 1 - City;51.2066982;4.3927748;10.5
+Uber Eats;Kapsalon;Donerland Aalst;50.93823;4.04069;10.5
+Uber Eats;Kapsalon;Can Snack & Grill;50.9429785;4.0287696;10.5
+Uber Eats;Kapsalon;Nemrut;50.86063;4.69804;10.5
+Uber Eats;Kapsalon;Pizza Boxx Antwerpen;51.20487;4.39603;10.5
+Uber Eats;Kapsalon;t Stad Kebab;51.21258;4.40771;10.5
+Uber Eats;Kapsalon;Kebap X-Press Turnhout;51.32186;4.94021;10.5
+Takeaway;Kapsalon;Boston Pizza & Burgers;50.8897114;4.5524114;10.5
+Takeaway;Kapsalon;Burger Kofte;50.9886723;5.6955838;10.5
+Takeaway;Kapsalon;Eethuis Taha;51.080901;4.430953;10.5
+Takeaway;Kapsalon;Eldina Snack;51.2409064;4.4391414;10.5
+Takeaway;Kapsalon;Snack de Linde;50.8360019;4.3001559;10.5
+Takeaway;Kapsalon;Frituur L'Orient Express;50.7315003;4.2309004;10.5
+Takeaway;Kapsalon;Grillades Panios;50.8502978;4.3751426;10.5
+Takeaway;Kapsalon;Le 1050 Snack;50.8289445;4.3726359;10.5
+Takeaway;Kapsalon;Magic Food;51.0950361;4.1359653;10.5
+Takeaway;Kapsalon;Miracle;50.8306611;4.3904781;10.5
+Takeaway;Kapsalon;Murat Pita Pizza Pasta;51.3519864;4.3974537;10.5
+Takeaway;Kapsalon;Naroj;50.8932578;4.7740197;10.5
+Takeaway;Kapsalon;Pasa Snack;51.1654451;4.989585;10.5
+Takeaway;Kapsalon;Pitta Magic;50.8612862;4.3716419;10.5
+Takeaway;Kapsalon;Pizza Boxx;51.204868;4.3961402;10.5
+Takeaway;Kapsalon;Pizza Giorno;51.2526622;4.5033576;10.5
+Takeaway;Kapsalon;Pizza Pisa;51.0643909;3.7264021;10.5
+Takeaway;Kapsalon;Pizza Pita Grillroom Milano;51.3141839;3.3022606;10.5
+Takeaway;Kapsalon;Pizza Pita Pala;51.1701238;4.3120615;10.5
+Takeaway;Kapsalon;Pizzeria Luigi;50.8893431;5.2900713;10.5
+Takeaway;Kapsalon;Place 2 Eat;50.9483796;3.1296242;10.5
+Takeaway;Kapsalon;Snack de Hoek;51.2247607;4.4548562;10.5
+Takeaway;Kapsalon;Snack House;50.8709662;4.2639294;10.5
+Takeaway;Kapsalon;Kalender Frietjes;50.8678838;4.4504362;10.5
+Takeaway;Kapsalon;Snack Maya;51.2016103;4.4334429;10.5
+Takeaway;Kapsalon;Snack O'Laeken;50.8779263;4.3477112;10.5
+Takeaway;Kapsalon;Snack Pizza Bodrum;50.90637;4.207182;10.5
+Takeaway;Kapsalon;Tokcel;51.0921674;4.0255789;10.5
+Takeaway;Kapsalon;Trend Kebab & Pizzeria;51.0940817;5.7923279;10.5
+Takeaway;Kapsalon;Ustun Kebab;51.0241203;5.3752994;10.5
+Takeaway;Kapsalon;Yamy Food;50.8804476;4.6960742;10.5
+Uber Eats;Kapsalon;Snack Derya;50.84865176564045;4.31879027890444;10.54
+Uber Eats;Kapsalon;Chicken Style;51.1726832;4.3962038;10.57
+Takeaway;Kapsalon;Lilse Kebab 2;51.2684622;4.8671555;10.57
+Uber Eats;Kapsalon;Forty Seven;50.93254;5.40493;10.58
+Takeaway;Kapsalon;Pita Muradim;51.2076892;4.3887578;10.58
+Takeaway;Kapsalon;Pitta Destelbergen;51.0587544;3.8182144;10.58
+Takeaway;Kapsalon;Snack Antalya;51.0286715;4.4845363;10.58
+Deliveroo;Kapsalon;Pita Ster Antwerpen;51.2078309;4.389232199999999;10.6
+Deliveroo;Kapsalon;Pizzaria Mr. Sebino;51.2251981;3.2314266;10.63
+Takeaway;Kapsalon;Ela Kebap;51.1318678;5.0810792;10.63
+Deliveroo;Kapsalon;Frituur Pita de Brug;51.0415614;3.7294274;10.67
+Deliveroo;Kapsalon;Jerusalem Pita-Shoarma-Pizzeria;50.9666456;5.5002103;10.67
+Uber Eats;Kapsalon;Pizza Pisa;51.06443;3.72674;10.67
+Uber Eats;Kapsalon;Rinascente eethuis;51.22016;4.45954;10.67
+Uber Eats;Kapsalon;Pizza king;51.06517;3.72645;10.67
+Takeaway;Kapsalon;Dunya Döner;51.2220515;4.463011;10.67
+Takeaway;Kapsalon;Eethuis Zemzem;50.8895158;5.6507451;10.67
+Takeaway;Kapsalon;Jerusalem;50.9664556;5.5000842;10.67
+Takeaway;Kapsalon;Kebap Anatolia;51.3249431;4.9393244;10.67
+Takeaway;Kapsalon;Pitta Maldegem;51.2139925;3.4468523;10.67
+Takeaway;Kapsalon;Posh Kebab;51.2334662;2.9214644;10.67
+Takeaway;Kapsalon;Rinascente Eethuis;51.2202396;4.4594739;10.67
+Takeaway;Kapsalon;The Black Horse;51.0758523;4.7251002;10.67
+Takeaway;Kapsalon;Duffelse Kebab;51.0954102;4.5099468;10.69
+Takeaway;Kapsalon;Pitta Mersan;51.1038131;3.9879605;10.69
+Deliveroo;Kapsalon;Muradim;51.2076892;4.3887578;10.7
+Uber Eats;Kapsalon;De Waterput;51.33258;4.95928;10.7
+Uber Eats;Kapsalon;Pita Muradim;51.207707;4.38891;10.7
+Takeaway;Kapsalon;Goody's;51.1852106;3.5627169;10.7
+Takeaway;Kapsalon;Pizza Verona;51.2439049;4.5922835;10.7
+Takeaway;Kapsalon;Snack O Tac;50.8695437;4.3328935;10.7
+Takeaway;Kapsalon;Pizzaria Mr. Sebino;51.2251981;3.2314266;10.71
+Uber Eats;Kapsalon;Donerix;51.24829;4.45416;10.73
+Uber Eats;Kapsalon;El Nacho's;50.9411841;4.0391104;10.75
+Takeaway;Kapsalon;Pizzeria Grissini & Kebab House;51.0000089;4.5861227;10.75
+Takeaway;Kapsalon;Pita Vrede;50.9387904;4.0332502;10.75
+Takeaway;Kapsalon;Pizzeria Saray;50.938774;4.619825;10.75
+Uber Eats;Kapsalon;Snack De Hoek;51.22473;4.45487;10.76
+Takeaway;Kapsalon;Chef Tielen;51.2438076;4.8955912;10.78
+Uber Eats;Kapsalon;Istanbul;51.16056;4.98974;10.79
+Takeaway;Kapsalon;Anatolia;50.986765;5.1927006;10.8
+Takeaway;Kapsalon;Frituur brother's;50.8974472;4.4350421;10.8
+Takeaway;Kapsalon;Napoli Heers;50.752292;5.302248;10.8
+Takeaway;Kapsalon;Pitta Cem;51.3142247;3.1268987;10.8
+Takeaway;Kapsalon;Rana;51.1736447;5.5797481;10.82
+Uber Eats;Kapsalon;Munis Restaurant;51.01945;4.48208;10.83
+Takeaway;Kapsalon;Kebap Mustafa;50.8926649;5.1141853;10.83
+Takeaway;Kapsalon;Munis Restaurant;51.0194736;4.4822218;10.83
+Takeaway;Kapsalon;Pitta Number 1;51.3426788;3.2880538;10.83
+Takeaway;Kapsalon;Pitta Reco;51.1892163;3.2116095;10.83
+Takeaway;Kapsalon;Pizza Delicia;51.0014269;4.3023356;10.83
+Takeaway;Kapsalon;Elite Kebab;51.1287558;4.5771098;10.88
+Takeaway;Kapsalon;Nazar Side;50.8096291;4.9320733;10.88
+Takeaway;Kapsalon;Pizza Pamukkale;51.1272762;4.2120871;10.88
+Takeaway;Kapsalon;Soyy Eethuis & Gelateria;51.05137;5.239609;10.88
+Uber Eats;Kapsalon;Dennis Kebab;51.06969;5.08769;10.9
+Uber Eats;Kapsalon;Orient Hasselt;50.9247431;5.3262535;10.9
+Uber Eats;Kapsalon;Pizza Sole Mio;50.8789219;4.7002106;10.9
+Takeaway;Kapsalon;Layana Food;51.244299;4.4447138;10.9
+Takeaway;Kapsalon;Mam's burger;50.9008109;4.3607925;10.9
+Takeaway;Kapsalon;Pitta Number 1 Bredene;51.2486088;2.9667543;10.9
+Takeaway;Kapsalon;Magic Kebap-Kessenich;51.1522604;5.8106697;10.92
+Takeaway;Kapsalon;Heist Kebab;51.0756262;4.7252205;10.93
+Takeaway;Kapsalon;Pizzeria La Familia;51.17228;4.4470744;10.93
+Deliveroo;Kapsalon;Mixor Kebab;51.2192348;4.4203085;10.95
+Uber Eats;Kapsalon;Pizza@Home - Sint-Niklaas;51.1648;4.14306;10.95
+Uber Eats;Kapsalon;Pizza@Home;51.29156;4.49407;10.95
+Takeaway;Kapsalon;Pizza@Home;51.2916329;4.4938601;10.95
+Takeaway;Kapsalon;Pizza Lacasa;51.127893;4.2160941;10.96
+Deliveroo;Kapsalon;Iran Chicken Grill ;51.203775;3.208446;11.0
+Deliveroo;Kapsalon;Saba snack;51.20622773;3.218068992;11.0
+Deliveroo;Kapsalon;Pitta Can ;51.06218699999999;3.7498953;11.0
+Uber Eats;Kapsalon;Snack Tim;50.87165;4.32553;11.0
+Uber Eats;Kapsalon;Toronto Pizza&Burger;50.77085;3.87578;11.0
+Uber Eats;Kapsalon;Cedi's Kebab House;50.96793;3.51292;11.0
+Uber Eats;Kapsalon;Iran Chicken Grill;51.20393;3.20845;11.0
+Uber Eats;Kapsalon;Snack Saint-Denis;50.80953;4.31717;11.0
+Uber Eats;Kapsalon;Snack DÃ©lice - Uccle;50.8039923;4.3364628;11.0
+Uber Eats;Kapsalon;Chicken World;51.04166;3.72964;11.0
+Uber Eats;Kapsalon;Pita Number 1;51.34269;3.28807;11.0
+Uber Eats;Kapsalon;The Vend;51.20791;4.39269;11.0
+Takeaway;Kapsalon;Amber's Pizzalijn;51.112926;5.638634;11.0
+Takeaway;Kapsalon;Antalya Grill;51.2245941;2.9087838;11.0
+Takeaway;Kapsalon;Atlasresto;50.8595094;4.3623686;11.0
+Takeaway;Kapsalon;De Chef;51.0524419;4.7776624;11.0
+Takeaway;Kapsalon;De Pyramiden;51.1785108;3.7467088;11.0
+Takeaway;Kapsalon;Döner Kebab Anatolia;50.8067955;5.2858685;11.0
+Takeaway;Kapsalon;Doner Kebab Bahri;51.0316401;5.3725979;11.0
+Takeaway;Kapsalon;Durum Express;50.8475034;4.303581;11.0
+Takeaway;Kapsalon;Frituur Muzzy;51.0391266;5.2998532;11.0
+Takeaway;Kapsalon;Heide;51.0306176;4.7567441;11.0
+Takeaway;Kapsalon;Il Gusto Pizzeria;51.2203373;4.4026728;11.0
+Takeaway;Kapsalon;Iran Chicken Grill;51.2038924;3.2084074;11.0
+Takeaway;Kapsalon;Istanbul;51.1609827;4.9906752;11.0
+Takeaway;Kapsalon;Kaai Pizzeria;51.1336097;2.7538643;11.0
+Takeaway;Kapsalon;King Kebap;50.9770486;4.6345681;11.0
+Takeaway;Kapsalon;Lommelse Kebab;51.2261487;5.3141093;11.0
+Takeaway;Kapsalon;Masaya;50.9158814;4.6556004;11.0
+Takeaway;Kapsalon;Merdin 2;50.9407756;4.7316923;11.0
+Takeaway;Kapsalon;New Maan Pizza & Wok & Burger;50.8780503;4.7196363;11.0
+Takeaway;Kapsalon;Pitta Kervan;51.0410855;3.3964371;11.0
+Takeaway;Kapsalon;Pizza Desperado;50.841038;4.834623;11.0
+Takeaway;Kapsalon;Pizza Dino 21;50.8246451;4.5132418;11.0
+Takeaway;Kapsalon;Pizza King;51.0651573;3.7264744;11.0
+Takeaway;Kapsalon;Post'a Kebab;50.9074031;4.2053163;11.0
+Takeaway;Kapsalon;Ramses;50.8777072;4.346458;11.0
+Takeaway;Kapsalon;Route 46;50.925087;3.9524026;11.0
+Takeaway;Kapsalon;Ruby Frituur;51.2179472;2.8950886;11.0
+Takeaway;Kapsalon;Snack Denderleeuw;50.8922625;4.0729595;11.0
+Takeaway;Kapsalon;Snack Aladdin;50.8330455;4.3740091;11.0
+Takeaway;Kapsalon;Snack Altan;50.8672003;4.3589807;11.0
+Takeaway;Kapsalon;Snack Chez Zeki;50.8548619;4.3673975;11.0
+Takeaway;Kapsalon;Snack Frituur Hanoodi;50.967342;3.9873674;11.0
+Takeaway;Kapsalon;Sultan Testelt;51.0184101;4.9488446;11.0
+Takeaway;Kapsalon;Tasty Food Vesalius;50.8752133;4.7079149;11.0
+Takeaway;Kapsalon;The Food Affair;51.3491317;3.2893011;11.0
+Takeaway;Kapsalon;Toronto Pizza & Burger;50.7709132;3.8756524;11.0
+Takeaway;Kapsalon;Venus;50.9995553;5.3320171;11.0
+Takeaway;Kapsalon;Zelem Pizzeria;50.9780074;5.1217436;11.0
+Takeaway;Kapsalon;Snack Overpoort;51.039307;3.725667;11.07
+Takeaway;Kapsalon;Sude Snacks;51.1310279;5.4576418;11.07
+Takeaway;Kapsalon;Oklava;51.153099;5.392288;11.08
+Takeaway;Kapsalon;Eethuis Star;50.9477982;5.344999;11.1
+Takeaway;Kapsalon;Foodtruck Pitta Mustafari;51.036934;3.7413306;11.1
+Takeaway;Kapsalon;Pitta Roos;51.1987497;3.1889283;11.1
+Takeaway;Kapsalon;Kebab Oelegem;51.2132023;4.5908882;11.11
+Takeaway;Kapsalon;Eethuis Dalin;51.1811525;4.8300739;11.12
+Uber Eats;Kapsalon;Ti Amo;50.87452;4.69157;11.13
+Takeaway;Kapsalon;La Casa Pizzeria;51.1338131;4.4428021;11.13
+Takeaway;Kapsalon;Unal Snacks;51.0031161;4.6327539;11.13
+Takeaway;Kapsalon;Eethuis Florya Lommel;51.2321067;5.3469081;11.14
+Takeaway;Kapsalon;Pinocchio;51.2508647;4.4479395;11.14
+Takeaway;Kapsalon;Pitta Mr. Food;51.1542688;3.2375995;11.16
+Deliveroo;Kapsalon;Kubaba;51.0535273;3.7217288;11.17
+Uber Eats;Kapsalon;Sezer Snack-Pizza;51.05926;3.70453;11.17
+Takeaway;Kapsalon;Eethuis Musti;50.8221402;4.8914991;11.17
+Takeaway;Kapsalon;Sezer Snack-Pizza;51.059011;3.7042263;11.17
+Deliveroo;Kapsalon;Pita Cleopatra;51.1735923;4.4444482;11.2
+Takeaway;Kapsalon;Adana Kebab;51.0290669;4.4883672;11.2
+Takeaway;Kapsalon;Aly Baba;51.4678223;4.4682463;11.2
+Takeaway;Kapsalon;Cizbiz Donerland;51.227137;4.4502062;11.2
+Takeaway;Kapsalon;Ronse Grill;50.749761;3.5969296;11.2
+Takeaway;Kapsalon;Snack Gab & Dav;50.8653653;4.3885953;11.2
+Uber Eats;Kapsalon;Pita pocket;51.2253247;4.4095748;11.21
+Takeaway;Kapsalon;Eetcafe Antep;51.3915605;4.4668839;11.21
+Takeaway;Kapsalon;Pizza Yavuz;51.0522166;3.7485857;11.21
+Takeaway;Kapsalon;Schaffense Kebap;50.997961;5.077685;11.21
+Takeaway;Kapsalon;Bella Vita;51.2788573;4.4188902;11.24
+Uber Eats;Kapsalon;Pitta Seker;50.95411;4.0631;11.25
+Uber Eats;Kapsalon;Chez Kalender;50.86795;4.45044;11.25
+Uber Eats;Kapsalon;Arabesq;51.31398;4.42805;11.25
+Takeaway;Kapsalon;Pita Babylon;50.9393891;3.1221289;11.25
+Takeaway;Kapsalon;Pita Ephesus;50.6641724;5.5366125;11.25
+Takeaway;Kapsalon;Pitta Bodrum;51.0426523;4.104073;11.25
+Takeaway;Kapsalon;Pitta Seker;50.954109;4.0630978;11.25
+Takeaway;Kapsalon;Pittazino;50.931698;4.0362616;11.25
+Takeaway;Kapsalon;Pitta Yasmin;51.0712026;3.7095474;11.25
+Takeaway;Kapsalon;Grand Station;51.0967684;4.2329777;11.29
+Takeaway;Kapsalon;Turkoase;50.9863669;5.0487732;11.29
+Takeaway;Kapsalon;Frituur-Grillroom Dalia;50.8605512;5.6178644;11.3
+Takeaway;Kapsalon;Pizza Trenti;51.1379308;4.3783788;11.3
+Takeaway;Kapsalon;Snack Grill Dansaert;50.8521231;4.3439342;11.31
+Takeaway;Kapsalon;Snackbar Tasty;50.9945976;4.7097848;11.31
+Takeaway;Kapsalon;Pizza Bulls;51.0996057;4.2404586;11.32
+Deliveroo;Kapsalon;Ali Baba Vennestraat;50.98023200000001;5.4917294;11.33
+Uber Eats;Kapsalon;Pita Ster;51.207938;4.38915;11.33
+Uber Eats;Kapsalon;New Maan;50.87803;4.71963;11.33
+Takeaway;Kapsalon;Ali's Eethuis;51.0864141;4.3285395;11.33
+Takeaway;Kapsalon;Hasseltse Kebab;50.9301263;5.3318256;11.33
+Takeaway;Kapsalon;Orontes;51.0318177;5.3730854;11.33
+Takeaway;Kapsalon;Pitta Can;51.062187;3.7498953;11.33
+Takeaway;Kapsalon;Pizzeria Evin;50.9043522;4.7222932;11.33
+Takeaway;Kapsalon;Ali Baba;51.0782718;5.2187304;11.33
+Takeaway;Kapsalon;Pitta New York;51.0945939;4.143846;11.35
+Takeaway;Kapsalon;Chef Eethuis;50.9912688;5.3688786;11.38
+Takeaway;Kapsalon;Florya Kebab & Pizzeria;51.019872;5.4752219;11.38
+Takeaway;Kapsalon;Grill House Centrum;50.9642271;5.4949196;11.38
+Takeaway;Kapsalon;Nefertete;51.1869835;5.1173167;11.38
+Takeaway;Kapsalon;Pasta Pitta Derik;50.941807;4.044479;11.38
+Takeaway;Kapsalon;Pizza Pasta Nr1;51.1342628;4.4520796;11.38
+Takeaway;Kapsalon;Ramses II;51.394011;4.5962642;11.38
+Takeaway;Kapsalon;Pizzeria Sipan;50.9884214;4.7820077;11.38
+Takeaway;Kapsalon;Yum Smaak;51.34099;3.2888477;11.38
+Uber Eats;Kapsalon;Huzur Kebab;51.16082;4.99106;11.4
+Uber Eats;Kapsalon;Milano Bornem;51.09946;4.23442;11.4
+Takeaway;Kapsalon;Indian tadka & Istanbul kebab;50.9896628;5.0502084;11.4
+Takeaway;Kapsalon;Orient Diest;50.9800088;5.0445122;11.4
+Takeaway;Kapsalon;Saray;50.8006942;4.9563972;11.4
+Takeaway;Kapsalon;Turkische Food;50.852814;2.893423;11.4
+Takeaway;Kapsalon;Pizza Istanbul;51.0956102;4.1426429;11.42
+Takeaway;Kapsalon;Kapadokya döner;51.229379;5.3068659;11.43
+Takeaway;Kapsalon;Lilse Kebap;51.2371943;4.8258901;11.43
+Takeaway;Kapsalon;Pizzeria Dilan;50.8836767;4.7197713;11.43
+Deliveroo;Kapsalon;Uniq Kebab Gent;51.0268966;3.7218444;11.45
+Uber Eats;Kapsalon;Uniq Kebab;51.02688;3.72182;11.45
+Takeaway;Kapsalon;Uniq Kebab;51.02694;3.7218974;11.45
+Takeaway;Kapsalon;Arabesque;51.2076757;4.465059;11.48
+Deliveroo;Kapsalon;Botanique;50.93069190000001;5.3396605;11.5
+Deliveroo;Kapsalon;El assyl;50.9313569;5.3401621;11.5
+Deliveroo;Kapsalon;Pitta Roos;51.1987497;3.1889283;11.5
+Uber Eats;Kapsalon;Bohemian Bistro ;51.20124;4.43267;11.5
+Uber Eats;Kapsalon;City Food Lounge;50.98085;5.49208;11.5
+Uber Eats;Kapsalon;Snack Anka;50.7453163;4.345307;11.5
+Takeaway;Kapsalon;Amon;51.1162628;5.2592204;11.5
+Takeaway;Kapsalon;Efes Geetbets;50.8901089;5.1147702;11.5
+Takeaway;Kapsalon;Istanbul Snacks;50.9755102;5.4706466;11.5
+Takeaway;Kapsalon;Kebap Xpress;51.3219452;4.9401798;11.5
+Takeaway;Kapsalon;Pita Huis Blauwwater;51.2075136;4.4135132;11.5
+Takeaway;Kapsalon;Pitta Canan;51.0616385;3.700181;11.5
+Takeaway;Kapsalon;Pitta Murat;50.9438126;3.1247193;11.5
+Takeaway;Kapsalon;Pitta Pizza Ludwig;51.1325761;3.6796668;11.5
+Takeaway;Kapsalon;Pizza Corner;51.2561525;4.0899404;11.5
+Takeaway;Kapsalon;Pizza Pasta Nr1 City;51.2068362;4.3928489;11.5
+Takeaway;Kapsalon;Pizza Roma;50.8508582;2.8868742;11.5
+Takeaway;Kapsalon;Resto Simke;50.733166;5.2091265;11.5
+Takeaway;Kapsalon;Snack Aydin Ham;51.1045326;5.1772193;11.5
+Takeaway;Kapsalon;Snack Dodo;51.0304194;3.8018376;11.5
+Takeaway;Kapsalon;Snack Dylan;50.8600219;4.4176894;11.5
+Takeaway;Kapsalon;Snack Best Grill;50.9142631;4.1931411;11.5
+Takeaway;Kapsalon;Adak Kebab;51.250926;5.5421495;11.56
+Takeaway;Kapsalon;Eat-Point;50.7937035;5.2203537;11.58
+Takeaway;Kapsalon;Baguette & Salad Bar;50.8779438;4.6987789;11.59
+Takeaway;Kapsalon;Snack Marmara;50.8536962;4.3882244;11.59
+Takeaway;Kapsalon;NewWay Leuven;50.8760583;4.7089882;11.6
+Takeaway;Kapsalon;Rozalin Kebab Pizza;51.351267;4.6441514;11.6
+Deliveroo;Kapsalon;Doy Doys;51.1968333;4.4580978;11.62
+Takeaway;Kapsalon;Doy Doys;51.1968244;4.4580891;11.62
+Takeaway;Kapsalon;Pizza Meet Point;51.0952496;4.5029904;11.63
+Takeaway;Kapsalon;Pizza Pita King's;50.8902312;3.0602099;11.63
+Takeaway;Kapsalon;Pizza Zaga;51.0702424;4.531321;11.63
+Uber Eats;Kapsalon;Efes Mol;51.18691;5.11947;11.65
+Uber Eats;Kapsalon;Ali Baba Stalenstraat;50.9935446;5.5185342;11.67
+Takeaway;Kapsalon;Liman Grill House;50.998704;5.512514;11.67
+Takeaway;Kapsalon;Snack Twenty Six;50.8186283;4.3792999;11.69
+Takeaway;Kapsalon;Pizza Roma Mechelen;51.03616;4.475636;11.7
+Takeaway;Kapsalon;Baskent Averbode;51.028309;4.9815332;11.71
+Takeaway;Kapsalon;Pita Pizza Pyramide;51.38298;4.47518;11.72
+Takeaway;Kapsalon;Ton Ton Snack;51.0415591;3.72555;11.72
+Takeaway;Kapsalon;Top Snack;51.161282;4.669973;11.72
+Takeaway;Kapsalon;Donerix;51.2489808;4.4543133;11.73
+Takeaway;Kapsalon;Ali Baba;50.77303;4.5392365;11.75
+Takeaway;Kapsalon;Baskent Meerhout;51.1210878;5.0539219;11.75
+Takeaway;Kapsalon;Centrum Kebap;50.9933773;5.3678495;11.75
+Takeaway;Kapsalon;Fansa;51.2187238;5.3134026;11.75
+Takeaway;Kapsalon;Gül Food;50.8479888;4.3099943;11.75
+Takeaway;Kapsalon;Istanbul Grill Huis;50.9909538;4.8407489;11.75
+Takeaway;Kapsalon;Pizza Milano;51.0994106;4.2343152;11.75
+Takeaway;Kapsalon;Napoli Pizza Grill;50.9083137;4.6756146;11.75
+Takeaway;Kapsalon;Pizza & Kebab Zeebrugge;51.3131951;3.1876991;11.75
+Takeaway;Kapsalon;Pitta Alpay;51.1076122;3.9004134;11.75
+Takeaway;Kapsalon;Venezia;51.46431;4.45796;11.75
+Takeaway;Kapsalon;Efes Grillhouse, Kebab & Pizzeria;50.9798127;5.0549133;11.78
+Uber Eats;Kapsalon;Istanbul Snacks;50.97528;5.47083;11.8
+Takeaway;Kapsalon;LindelBaskent;51.1953055;5.4032187;11.8
+Takeaway;Kapsalon;Lara Eethuis;51.003218;4.1255906;11.8
+Takeaway;Kapsalon;Merdin 1;50.8841354;4.7230861;11.8
+Takeaway;Kapsalon;Eethuis Orient;50.8228108;5.1759431;11.8
+Takeaway;Kapsalon;The Vend;51.207916;4.392708;11.8
+Takeaway;Kapsalon;Ali Baba;51.0185386;4.4824376;11.82
+Uber Eats;Kapsalon;Snack de wand;50.89639894649198;4.3578602256968875;11.83
+Takeaway;Kapsalon;Baskent Tessenderlo;51.0673327;5.0875676;11.83
+Takeaway;Kapsalon;Huzur Pizzeria Kebab;51.1447208;5.7423493;11.83
+Takeaway;Kapsalon;Ottoman Pizza & BBQ;51.06103;3.6932049;11.83
+Takeaway;Kapsalon;Karine Dendermonde;51.0290797;4.0986522;11.83
+Takeaway;Kapsalon;Restaurant Marmaris;51.1700383;4.3873492;11.83
+Takeaway;Kapsalon;Vero Napoli;51.1320362;4.4468262;11.83
+Takeaway;Kapsalon;Chicken World Gent;51.0416463;3.7297433;11.85
+Takeaway;Kapsalon;Kaya;50.920294;4.756737;11.89
+Deliveroo;Kapsalon;Q'bap Gent;51.049376;3.730604;11.9
+Deliveroo;Kapsalon;CaCo;50.8260794;3.2378919;11.9
+Uber Eats;Kapsalon;Snack Arabesque;51.20776;4.46519;11.9
+Uber Eats;Kapsalon;Qbap Ghent;51.04937;3.73058;11.9
+Uber Eats;Kapsalon;SNACK TOSI;51.04085;3.72536;11.9
+Takeaway;Kapsalon;Eethuis Taksim;50.8042765;5.5746671;11.9
+Takeaway;Kapsalon;La Monte Carlo;51.2308451;4.4063067;11.9
+Takeaway;Kapsalon;Loons Qebap;50.8026021;5.3490397;11.9
+Takeaway;Kapsalon;Pizza Deal;51.1643562;4.4998914;11.9
+Takeaway;Kapsalon;Pizza Sole Mio;50.878939;4.700268;11.9
+Takeaway;Kapsalon;Pizza Star;51.1211835;4.1964177;11.9
+Takeaway;Kapsalon;Q'bap Gent;51.049376;3.730604;11.9
+Takeaway;Kapsalon;Snack Tosi;51.0408567;3.7253756;11.9
+Takeaway;Kapsalon;Baskent Peer;51.1299453;5.4185639;11.93
+Uber Eats;Kapsalon;Eethuis Nazar;51.09329;5.06127;11.94
+Takeaway;Kapsalon;Pizzeria Kebap Selin;50.8325241;5.1042698;11.94
+Uber Eats;Kapsalon;La Monte Carlo - City;51.21843;4.43045;11.95
+Takeaway;Kapsalon;Huzur Pizzeria Kebab;51.1618789;4.9908608;11.95
+Takeaway;Kapsalon;La Monte Carlo City;51.2184284;4.4304207;11.95
+Deliveroo;Kapsalon;Delifranco;50.9292419;5.3373425;11.99
+Deliveroo;Kapsalon;Pita Efes 2;51.206015;3.2177265;12.0
+Deliveroo;Kapsalon;Snack Marhaba;50.92572759999999;5.3260064;12.0
+Deliveroo;Kapsalon;Pita Piramide Aalst;50.93804249999999;4.0319657;12.0
+Deliveroo;Kapsalon;Aleppo food;50.9380499;5.3404621;12.0
+Deliveroo;Kapsalon;Karine Grembergen;51.0448385;4.1056225;12.0
+Deliveroo;Kapsalon;Karine Dendermonde;51.0288925;4.098554600000001;12.0
+Uber Eats;Kapsalon;Memo's;50.7174358;4.3962193;12.0
+Uber Eats;Kapsalon;Pita Piramide;50.938;4.03187;12.0
+Uber Eats;Kapsalon;Yummy Street Food;51.20832;3.22223;12.0
+Uber Eats;Kapsalon;Pizza Meet Point;51.0951;4.50295;12.0
+Uber Eats;Kapsalon;Urban pizza;51.05315;3.74613;12.0
+Takeaway;Kapsalon;Best Kebab;51.232577;2.9159456;12.0
+Takeaway;Kapsalon;Can Snack;50.9429437;4.0288648;12.0
+Takeaway;Kapsalon;Eethuis Istanbul;51.0320949;4.8327207;12.0
+Takeaway;Kapsalon;Euro Kebab-Pizza;51.027906;5.5321544;12.0
+Takeaway;Kapsalon;Fresca;50.8448432;3.6028256;12.0
+Takeaway;Kapsalon;Frituur Pitta Twee Deuren;50.9413006;3.6335992;12.0
+Takeaway;Kapsalon;Pizza Grill Huis;50.9306343;4.7245528;12.0
+Takeaway;Kapsalon;Izmir Kebab;51.232292;2.914207;12.0
+Takeaway;Kapsalon;Karine Grembergen;51.0448154;4.1055125;12.0
+Takeaway;Kapsalon;Kebap Kursat;50.9787777;4.9792033;12.0
+Takeaway;Kapsalon;Kebap - Pizza De Brug;0.0;0.0;12.0
+Takeaway;Kapsalon;Snack Kursatto;50.7475772;3.6015994;12.0
+Takeaway;Kapsalon;M84U;50.8068626;5.0969517;12.0
+Takeaway;Kapsalon;Mario's Pizza;51.2924252;4.4441251;12.0
+Takeaway;Kapsalon;Pizzaria Vlam II;51.3706301;4.9941559;12.0
+Takeaway;Kapsalon;Pita Piramide;50.9379926;4.0319358;12.0
+Takeaway;Kapsalon;Pita Pyramide;50.8443904;3.6037331;12.0
+Takeaway;Kapsalon;Pita4you;0.0;0.0;12.0
+Takeaway;Kapsalon;Pitta & Grill ‘T Parkske;50.8456491;3.6096502;12.0
+Takeaway;Kapsalon;Pizza Bodrum;51.069962;4.5316614;12.0
+Takeaway;Kapsalon;Pizza Efe Westerlo;51.0875698;4.8717344;12.0
+Takeaway;Kapsalon;Memo Pizza;50.9196292;3.8620404;12.0
+Takeaway;Kapsalon;Pizza Palace;51.145525;4.2987186;12.0
+Takeaway;Kapsalon;Snack Aydin Genk;50.9635393;5.500285;12.0
+Takeaway;Kapsalon;Snack Bodrum;50.84294;4.4083082;12.0
+Takeaway;Kapsalon;Snack Georges Henri;50.8437401;4.4126857;12.0
+Takeaway;Kapsalon;Snack-Grill Berchem;51.1976017;4.4242343;12.0
+Takeaway;Kapsalon;Snack L'oppem;50.8594957;4.5141147;12.0
+Takeaway;Kapsalon;Osman Kebab Pizzeria;50.817049;5.1770964;12.0
+Takeaway;Kapsalon;De Waterput;51.33266;4.9590822;12.0
+Takeaway;Kapsalon;Urban pizza;51.0531394;3.7461081;12.0
+Takeaway;Kapsalon;Wow Pizza;51.303104;4.7355146;12.0
+Takeaway;Kapsalon;Stela;51.1046623;5.0021347;12.05
+Takeaway;Kapsalon;Pizza Efe Berlaar;51.0828962;4.6687013;12.06
+Takeaway;Kapsalon;Eethuis Florya Neerpelt;51.2317153;5.4469011;12.07
+Takeaway;Kapsalon;Pizzaria Gunther;51.117996;4.656598;12.07
+Takeaway;Kapsalon;Milo II Kebap Pizza Pasta;51.2372439;5.113052;12.08
+Takeaway;Kapsalon;Pita Sofra;51.17049;4.1440005;12.08
+Takeaway;Kapsalon;Sam Kebab;50.987235;4.8388002;12.09
+Uber Eats;Kapsalon;Pita Pizza Primax;51.28197;4.41785;12.1
+Takeaway;Kapsalon;Anatolia 23;51.2514972;5.5466132;12.1
+Takeaway;Kapsalon;Anatolia;51.0280462;4.0987641;12.1
+Takeaway;Kapsalon;'t Kebabske;51.0258352;5.3753281;12.1
+Takeaway;Kapsalon;Pizza Pitta Flora;51.0193229;3.764036;12.11
+Takeaway;Kapsalon;TAT;50.9263663;5.3399257;12.12
+Takeaway;Kapsalon;Pizza Efe Olen;51.1433937;4.8599987;12.13
+Takeaway;Kapsalon;Sahin Eethuis;51.18434;4.9846778;12.13
+Deliveroo;Kapsalon;Bosphorus Snack;50.816322;4.4281378;12.14
+Takeaway;Kapsalon;Grillhouse Kusadasi;50.9311393;5.5741936;12.14
+Takeaway;Kapsalon;Pitta & Pizza Antalya;51.2114476;4.251832;12.15
+Uber Eats;Kapsalon;layana food;51.24433;4.44462;12.17
+Takeaway;Kapsalon;Orient KURINGEN;50.9415088;5.3007665;12.17
+Takeaway;Kapsalon;Eethuis Troja;51.1788669;4.831852;12.17
+Takeaway;Kapsalon;Pizza La Vince;51.0992448;4.2342988;12.17
+Takeaway;Kapsalon;Topkapi-Pitta Grillhouse;51.132175;2.6723878;12.17
+Takeaway;Kapsalon;Poker Friet;50.9865354;4.7810916;12.19
+Takeaway;Kapsalon;Reet Grillhouse;51.1148621;4.3898315;12.2
+Takeaway;Kapsalon;Bel Kebab;51.0588082;5.2733333;12.21
+Takeaway;Kapsalon;Pitta Kebab Sude;50.9998937;3.7501562;12.22
+Uber Eats;Kapsalon;The Daily;51.21303;4.25677;12.23
+Deliveroo;Kapsalon;Kebab@home;50.9369842;4.0271876;12.25
+Deliveroo;Kapsalon;Dailyslice;51.2110818;3.2424745;12.25
+Uber Eats;Kapsalon;Pitta Pizza Asmin;51.06037;3.74785;12.25
+Uber Eats;Kapsalon;Moni;51.205426768731755;4.472862170249654;12.25
+Uber Eats;Kapsalon;Amon;51.29501;4.48913;12.25
+Takeaway;Kapsalon;Amon;51.2950518;4.4892408;12.25
+Takeaway;Kapsalon;Asmin;51.060475;3.7477763;12.25
+Takeaway;Kapsalon;Bosphorus;51.1038132;3.9928181;12.25
+Takeaway;Kapsalon;Pizza kebap Pasa;51.0538633;4.883327;12.25
+Takeaway;Kapsalon;Hever Kebab;50.992436;4.555168;12.25
+Takeaway;Kapsalon;Isis;51.4281673;4.4618152;12.25
+Takeaway;Kapsalon;La Rosa;51.1819222;4.6016273;12.25
+Takeaway;Kapsalon;Moni;51.2054624;4.4728745;12.25
+Takeaway;Kapsalon;Pizza Pita Ege 2;51.0555994;4.2056305;12.25
+Takeaway;Kapsalon;Pizzeria Alma;50.87551;4.7301188;12.25
+Takeaway;Kapsalon;Sebo;50.8084433;5.4662026;12.25
+Uber Eats;Kapsalon;TAT;50.92666;5.34127;12.28
+Takeaway;Kapsalon;Ali Baba;50.8788873;4.7000875;12.28
+Uber Eats;Kapsalon;Doy Doys;51.1969691656475;4.458203143931745;12.29
+Takeaway;Kapsalon;Best Grill;50.7710849;3.8828792;12.29
+Takeaway;Kapsalon;Kebap Nisa;51.1982186;3.2193108;12.31
+Takeaway;Kapsalon;Istanbul;50.8788052;4.7001891;12.32
+Deliveroo;Kapsalon;Ali Baba Stalenstraat;50.9935238;5.5186852;12.33
+Takeaway;Kapsalon;Ali Baba Vennestraat;50.9802545;5.4919544;12.33
+Takeaway;Kapsalon;Ali Baba Stalenstraat;50.9935263;5.5186807;12.33
+Takeaway;Kapsalon;Eethuis Mehmet;50.8487033;5.4899992;12.33
+Takeaway;Kapsalon;Eethuis Bij Hakan;51.0347288;5.729146;12.38
+Takeaway;Kapsalon;Pizza Ti Amo;50.8745392;4.6914768;12.38
+Takeaway;Kapsalon;M&N Royal;51.0761247;4.7219067;12.38
+Uber Eats;Kapsalon;Heuvelpoort - Frituur & Snack;51.037051;3.7265533;12.4
+Takeaway;Kapsalon;Ada Grill & Burger;50.8465692;5.6941176;12.4
+Takeaway;Kapsalon;Dennis Kebap;51.0698019;5.0882976;12.4
+Takeaway;Kapsalon;Frituur Heuvelpoort;51.0370599;3.726667;12.4
+Takeaway;Kapsalon;Number One Snack;50.9453622;5.2611201;12.4
+Takeaway;Kapsalon;Pizza Hanoo;51.0021956;3.8813768;12.4
+Takeaway;Kapsalon;Kral Snacks;51.1750392;5.1355752;12.43
+Takeaway;Kapsalon;Pizza Efe Hulshout;51.0759414;4.7886443;12.44
+Uber Eats;Kapsalon;Pizza Trenti Schoten;51.25363;4.50219;12.5
+Takeaway;Kapsalon;Anka Kebab;50.9073594;5.0596721;12.5
+Takeaway;Kapsalon;Boston Pizza;50.9672032;3.9770103;12.5
+Takeaway;Kapsalon;Frituur Cité;50.9811288;5.4923153;12.5
+Takeaway;Kapsalon;De Mijn Kebab;51.0372686;5.3310157;12.5
+Takeaway;Kapsalon;Eethuis familia;51.219894;4.2795415;12.5
+Takeaway;Kapsalon;Gold Pizza;51.2464296;4.4477511;12.5
+Takeaway;Kapsalon;Kebap Corner;50.978933;5.0567785;12.5
+Takeaway;Kapsalon;Madame Gusto;50.8856404;4.3176225;12.5
+Takeaway;Kapsalon;Toscana;51.1586094;4.4913434;12.5
+Takeaway;Kapsalon;Pizza & Pitta Home;51.1060883;3.9879205;12.5
+Takeaway;Kapsalon;Pizza Florida;50.839714;3.47281;12.5
+Takeaway;Kapsalon;Pizza Midas;51.2080947;3.4510793;12.5
+Takeaway;Kapsalon;Pizzeria Pompeji;51.1975082;4.4527734;12.5
+Takeaway;Kapsalon;Pizza Trenti;51.2536044;4.5023549;12.5
+Takeaway;Kapsalon;Pyramide;51.24612;5.54582;12.5
+Takeaway;Kapsalon;Snack Corner;51.0702663;4.036278;12.5
+Takeaway;Kapsalon;Snack Opwijk;50.9691957;4.1890306;12.5
+Takeaway;Kapsalon;Snack Ot's;50.8709745;4.375243;12.5
+Takeaway;Kapsalon;Snack Sympa;50.8365798;4.3661102;12.5
+Takeaway;Kapsalon;Steakhouse Mamma;51.4430011;4.9296567;12.5
+Takeaway;Kapsalon;Kebap Store;50.9799202;4.9708248;12.53
+Takeaway;Kapsalon;Wemmel Grill;50.91032;4.3009225;12.53
+Takeaway;Kapsalon;Aladin;50.9330042;5.3268261;12.6
+Takeaway;Kapsalon;Kebab Time;51.226;5.3141255;12.6
+Takeaway;Kapsalon;Qivvi;51.161534;4.6696033;12.6
+Takeaway;Kapsalon;Efes bij Carlos Niko;50.988972;4.840586;12.63
+Takeaway;Kapsalon;Dr. Grill;51.252831;5.106028;12.63
+Takeaway;Kapsalon;Musty Kebab;51.1261817;5.358197;12.63
+Takeaway;Kapsalon;De ster pizzeria & doner kebap;51.0905238;4.9161535;12.63
+Uber Eats;Kapsalon;Campus & Fratelli;51.2250618;4.4074559;12.64
+Takeaway;Kapsalon;Plaza Snacks;51.0229785;5.3137589;12.64
+Takeaway;Kapsalon;Anatolian Kebap;51.0673158;5.0911336;12.67
+Takeaway;Kapsalon;Sofram;51.0746271;5.2202015;12.67
+Takeaway;Kapsalon;Pitta Gizem;50.9401098;4.0432019;12.7
+Takeaway;Kapsalon;Pizzo;50.998208;4.1295875;12.7
+Takeaway;Kapsalon;Antalya Kebab;51.1948087;4.7340181;12.71
+Takeaway;Kapsalon;Eethuis Meyman;50.9426912;5.2861735;12.71
+Takeaway;Kapsalon;Pizza Point;51.1235066;4.8682401;12.72
+Takeaway;Kapsalon;Eetboutique Kaya;50.9075832;5.4189421;12.75
+Takeaway;Kapsalon;Pizza Sam;51.3169613;3.133781;12.75
+Takeaway;Kapsalon;Snack Unal;51.1866205;5.1177366;12.75
+Takeaway;Kapsalon;Seven Kebap 7;50.9323878;5.3422072;12.75
+Takeaway;Kapsalon;The Daily;51.212832;4.2564012;12.77
+Takeaway;Kapsalon;Call Pizza;51.0416276;4.5157261;12.78
+Takeaway;Kapsalon;Balen'se Kebap;51.1710139;5.1663912;12.8
+Takeaway;Kapsalon;Kent;51.183926;5.1148286;12.8
+Takeaway;Kapsalon;Venus 7;51.0874035;5.2196722;12.8
+Takeaway;Kapsalon;Venus 8;51.055254;5.2738908;12.8
+Takeaway;Kapsalon;Melita;51.2142722;4.2572492;12.82
+Deliveroo;Kapsalon;Frituur Bossuwé Pottelberg;50.81315130000001;3.2494097;12.83
+Takeaway;Kapsalon;Huzur Pizzeria Kebab;51.1163805;5.2619274;12.86
+Takeaway;Kapsalon;Ottoman Eethuis;50.8730912;5.5212681;12.86
+Takeaway;Kapsalon;Friterie Houba;50.8860058;4.3425412;12.9
+Takeaway;Kapsalon;Pizzalijn Berchem;51.1973852;4.430622;12.9
+Takeaway;Kapsalon;Cappadocia;51.2180687;4.419398;12.92
+Takeaway;Kapsalon;Melita;50.890503;3.0607631;12.92
+Takeaway;Kapsalon;Bosphorus;50.8753181;5.3082716;12.93
+Takeaway;Kapsalon;Brasserie Shammy's;51.1793005;4.3779457;12.94
+Uber Eats;Kapsalon;Kebab@Home;50.9370516;4.0272089;13.0
+Uber Eats;Kapsalon;Pittaland Erembodegem;50.92075;4.07018;13.0
+Takeaway;Kapsalon;Ararat;50.8116006;5.1899666;13.0
+Takeaway;Kapsalon;Baskent Balen;51.1728415;5.1696578;13.0
+Takeaway;Kapsalon;De Fontein;51.2191013;4.1945366;13.0
+Takeaway;Kapsalon;Istanbul Resto Snack;51.1321422;2.7512009;13.0
+Takeaway;Kapsalon;Kebab@Home;50.9369842;4.0271876;13.0
+Takeaway;Kapsalon;Konak Pizzeria Doner Kebab;51.1763368;5.8374658;13.0
+Takeaway;Kapsalon;Mamma Mia;50.8133081;5.6691349;13.0
+Takeaway;Kapsalon;Mira;0.0;0.0;13.0
+Takeaway;Kapsalon;Pitta Izmir 2 Ertvelde;51.1802528;3.7467185;13.0
+Takeaway;Kapsalon;Pizza Efe Itegem;51.1032629;4.7276196;13.0
+Takeaway;Kapsalon;Pizza Town Houtem;50.9207779;3.8538031;13.0
+Takeaway;Kapsalon;Resto Snack Alanya;51.116352;2.681679;13.0
+Takeaway;Kapsalon;King Of Kebab;51.0534807;4.8821208;13.0
+Takeaway;Kapsalon;Eethuis Turnhout;51.319332;4.949775;13.07
+Takeaway;Kapsalon;Ediz Pizza-Pita;50.9911311;3.8307237;13.07
+Takeaway;Kapsalon;Pitta Sari 9040;51.0528254;3.7474673;13.09
+Takeaway;Kapsalon;Pizza Sultan Westmeerbeek;51.0607777;4.8365614;13.1
+Takeaway;Kapsalon;Euro Pizza Grill;50.949074;4.57991;13.13
+Takeaway;Kapsalon;Snack Aydin Beringen;51.0748681;5.2200034;13.13
+Takeaway;Kapsalon;Papi's pizza;50.9712916;4.1865574;13.15
+Takeaway;Kapsalon;Oba Grillhuis;51.1162617;5.2620302;13.17
+Takeaway;Kapsalon;Mashar Pide;50.977367;5.489949;13.17
+Takeaway;Kapsalon;Milano Pizza Grill;50.9768089;4.6335843;13.17
+Takeaway;Kapsalon;Eethuis Botan;51.0526079;4.7287392;13.18
+Takeaway;Kapsalon;Pizza Pita House;51.175496;4.8243417;13.18
+Takeaway;Kapsalon;Eethuis Hoekske;50.925994;5.3251184;13.2
+Takeaway;Kapsalon;Eethuis Yuksel;51.1615063;4.6694733;13.2
+Takeaway;Kapsalon;Eethuis Tuba;51.1310196;4.3893394;13.2
+Takeaway;Kapsalon;Eethuis Nazar;51.093322;5.0611908;13.21
+Takeaway;Kapsalon;4 Seizoenen;51.293016;4.4945229;13.22
+Takeaway;Kapsalon;Het Paleis Eethuis;51.3200678;4.9751429;13.22
+Takeaway;Kapsalon;La Bella;51.22917;5.4319444;13.22
+Uber Eats;Kapsalon;Pizza Sam;51.33941;3.23854;13.25
+Takeaway;Kapsalon;Cesars;51.0567325;4.6288207;13.25
+Takeaway;Kapsalon;De Pizzabakker;50.90793;4.51349;13.25
+Takeaway;Kapsalon;Eatpoint;51.0297439;5.2592668;13.25
+Takeaway;Kapsalon;Pizza Sam;51.3394195;3.2383649;13.25
+Takeaway;Kapsalon;Pizza L'Esta;51.1792768;4.3553309;13.28
+Takeaway;Kapsalon;Campus & Fratelli;51.2250618;4.4074559;13.31
+Takeaway;Kapsalon;Eethuis Bidos;50.8904648;5.653412;13.36
+Uber Eats;Kapsalon;Dunya - Kebab;51.11423;4.86599;13.38
+Takeaway;Kapsalon;Millenium Kebap;50.9835692;4.8312654;13.38
+Uber Eats;Kapsalon;Pitta De Kroon;50.94935;4.04103;13.5
+Takeaway;Kapsalon;Kebab House;51.1021044;2.5882683;13.5
+Takeaway;Kapsalon;Orient;50.9249881;5.3259603;13.5
+Takeaway;Kapsalon;Pitta Araz;50.8698006;3.6220167;13.5
+Takeaway;Kapsalon;Pitaverne Wilrijk;51.1717341;4.3877893;13.5
+Takeaway;Kapsalon;Pitta Dorp;50.870853;4.0181446;13.5
+Takeaway;Kapsalon;Pitza Service Beveren;51.2112126;4.252266;13.5
+Takeaway;Kapsalon;Pizza Royal;50.8917936;3.427323;13.5
+Takeaway;Kapsalon;Saray Pizza & Kebab;51.1383619;4.9038049;13.5
+Takeaway;Kapsalon;'T Food Dilemma;51.2976457;3.0830791;13.5
+Takeaway;Kapsalon;Dunya Kebab;51.11452;4.866375;13.55
+Takeaway;Kapsalon;Pitta de Kroon;50.949387;4.04096;13.58
+Takeaway;Kapsalon;'t Hoekske;51.2421;4.9658074;13.58
+Takeaway;Kapsalon;Alo Pizza;51.3342494;4.9634086;13.6
+Takeaway;Kapsalon;Antalya Pita;51.0217628;4.1140786;13.6
+Takeaway;Kapsalon;Grill Metin;50.8066648;4.9394094;13.62
+Deliveroo;Kapsalon;Emir Baba Köfte & Kebab;51.1994999;4.4303691;13.67
+Takeaway;Kapsalon;HKebab Pizza;50.8055699;4.1549889;13.67
+Takeaway;Kapsalon;Midyat;51.0006958;4.8298804;13.67
+Takeaway;Kapsalon;Nazar Pizza Kebap;51.0555709;4.6305208;13.67
+Takeaway;Kapsalon;Pitta Marmaris;50.7699036;3.8745797;13.7
+Takeaway;Kapsalon;Napoli Schoten;51.2548016;4.5036859;13.72
+Takeaway;Kapsalon;De Echte Eethuis Carlos;51.0023083;4.8359204;13.78
+Takeaway;Kapsalon;Adel Eethuis;51.3787817;4.4745592;13.8
+Takeaway;Kapsalon;Kebabstore;50.929356;5.4626102;13.83
+Takeaway;Kapsalon;Pittaverne;51.4644444;4.4725981;13.83
+Takeaway;Kapsalon;Efes;51.3109921;4.8870504;13.86
+Takeaway;Kapsalon;Milas;51.1615201;5.3969554;13.88
+Takeaway;Kapsalon;Pizzeria Valentino;51.1246762;4.495271;13.92
+Takeaway;Kapsalon;Forty Seven;50.9325605;5.4049223;13.92
+Deliveroo;Kapsalon;Sesam;50.82850819999999;3.2649605;14.0
+Uber Eats;Kapsalon;Mcbuffet;50.88762;3.43065;14.0
+Uber Eats;Kapsalon;Mr spare ribs;50.93051;5.34326;14.0
+Uber Eats;Kapsalon;sesam;50.8285;3.26512;14.0
+Takeaway;Kapsalon;Frituur 't Patatje;51.216785;2.9356925;14.0
+Takeaway;Kapsalon;Leo's Bakkerij & Kebab;51.117792;5.2601209;14.0
+Takeaway;Kapsalon;Mc Buffet;50.8875816;3.4306791;14.0
+Takeaway;Kapsalon;Mr. Spareribs;50.930466;5.343357;14.0
+Takeaway;Kapsalon;SaBa Snack;51.2062849;3.2180116;14.0
+Takeaway;Kapsalon;Cheff Kebab;51.1410312;4.8398966;14.14
+Takeaway;Kapsalon;Efes Mol;51.1873243;5.1196074;14.15
+Deliveroo;Kapsalon;Golden Spice;51.200648;4.4444544;14.25
+Takeaway;Kapsalon;Nur Kebab;50.8861168;5.5289695;14.25
+Takeaway;Kapsalon;Side Kebap;51.3187134;5.0863443;14.25
+Takeaway;Kapsalon;Pizza Marmaris;51.2469449;4.4435028;14.28
+Takeaway;Kapsalon;Pizzeria Vosselaar;51.3148154;4.8895358;14.3
+Takeaway;Kapsalon;Pitta Istanbul;50.97435;3.014752;14.33
+Takeaway;Kapsalon;Kebap Oasis;51.0973895;4.9451813;14.38
+Uber Eats;Kapsalon;Snackhalte;51.03928;3.72572;14.45
+Uber Eats;Kapsalon;Snack Kronos;50.72958;4.2413;14.5
+Takeaway;Kapsalon;Orient Overpelt;51.2119421;5.4230823;14.5
+Takeaway;Kapsalon;Baskent Nijlen;51.1652144;4.6819769;14.65
+Takeaway;Kapsalon;Istanbul;51.1672968;5.1734859;14.65
+Deliveroo;Kapsalon;Pitta Sena ;51.037505;3.714077;14.67
+Uber Eats;Kapsalon;Pita vogelmarkt;51.213497;4.409349;14.7
+Takeaway;Kapsalon;Pita Vogelmarkt;51.213503;4.4094513;14.7
+Takeaway;Kapsalon;Eethuis Kodak;51.2259261;5.4302185;14.71
+Deliveroo;Kapsalon;Frituur Conny & Franky;51.171145;4.127612;14.9
+Takeaway;Kapsalon;Pitawan;51.0243125;4.4775937;14.9
+Takeaway;Kapsalon;The Pizza Masters;51.0367741;3.7416992;14.9
+Deliveroo;Kapsalon;The Ribhouse Gent;51.038816;3.7262825;15.0
+Takeaway;Kapsalon;DailySlice;51.2110818;3.2424745;15.0
+Takeaway;Kapsalon;Eethuis Orient;51.0388933;5.2991728;15.0
+Takeaway;Kapsalon;Pasa;51.0332193;5.2812994;15.0
+Takeaway;Kapsalon;Pitta Melita;50.9460015;3.8041969;15.0
+Takeaway;Kapsalon;Pitta Melita;50.9226945;3.4458184;15.0
+Takeaway;Kapsalon;Huzur Pizzeria Kebab;51.1311405;5.4560267;15.11
+Uber Eats;Kapsalon;Pitta Gizem;50.9401898;4.042674;15.33
+Uber Eats;Kapsalon;Pitta sena;51.037482;3.7140548;15.33
+Takeaway;Kapsalon;Pitta Sena;51.037505;3.714077;15.33
+Takeaway;Kapsalon;My Kebab;50.9872387;5.40882;15.39
+Takeaway;Kapsalon;Populair;50.861949;5.6249084;15.44
+Takeaway;Kapsalon;Pizzalicious;51.017464;3.9579873;15.5
+Takeaway;Kapsalon;Herentals Kebab;51.1745451;4.838171;15.57
+Takeaway;Kapsalon;Milo Kebap Pizza Pasta;51.1895375;5.0757013;15.65
+Takeaway;Kapsalon;La Rosa;51.1393449;4.6095;15.75
+Takeaway;Kapsalon;Keyf Lounge;51.1401444;5.5835198;15.78
+Deliveroo;Kapsalon;PITAWAN;51.02431250000001;4.4775937;15.9
+Uber Eats;Kapsalon;Pitawan!;51.02429;4.47761;15.9
+Deliveroo;Kapsalon;Eala Kayfik;51.2181571;4.4200142;15.99
+Uber Eats;Kapsalon;EALAA KAYFIK ;51.21824;4.42003;15.99
+Takeaway;Kapsalon;Qubbe Lounge;50.9796424;5.4915451;16.0
+Uber Eats;Kapsalon;Kap ou pas Kap Salon;50.84443;4.3849;16.4
+Takeaway;Kapsalon;Flamingo Pizza & Kebap;51.3557804;4.8650923;17.35
+Uber Eats;Kapsalon;My kebab - Zonhoven;50.9872033;5.408851;17.88
+Uber Eats;Kapsalon;Snack Twenty Six;50.8186284;4.3793152;18.25
+Takeaway;Kapsalon;Anatolia Hoogstraten;51.3960999;4.75359;19.17
+Uber Eats;Kapsalon;Damas Veneto;51.2208174;4.4264278;19.99
+Takeaway;Kapsalon;Cannur Pizza Pasta Pitta BBQ;51.0058452;3.8886878;20.84
+Takeaway;Kapsalon;Melita Original;50.9050631;3.5288347;22.79
