@@ -17,7 +17,7 @@ data['avg_kapsalon'] = data['avg_kapsalon'].astype(float)
 min_price = data['avg_kapsalon'].min()
 max_price = data['avg_kapsalon'].max()
 data['color'] = data['avg_kapsalon'].apply(lambda x: (x - min_price) / (max_price - min_price))
-data['radius'] = data['avg_kapsalon'].apply(lambda x: (max_price - x) / (max_price - min_price) * 15 + 5)
+data['radius'] = data['avg_kapsalon'].apply(lambda x: (max_price - x) / (max_price - min_price) * 25 + 5)
 
 # Create a base map centered on Belgium
 m = folium.Map(location=[50.8503, 4.3517], zoom_start=8)  # Centered on Belgium
