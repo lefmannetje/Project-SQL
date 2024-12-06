@@ -10,8 +10,6 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Construct paths relative to the current script
 takeaway_db = os.path.join(current_dir, "../databases/takeaway.db")
-deliveroo_db = os.path.join(current_dir, "../databases/deliveroo.db")
-ubereats_db = os.path.join(current_dir, "../databases/ubereats.db")
 
 # Connect to Takeaway database
 conn = sqlite3.connect(takeaway_db)
@@ -20,8 +18,8 @@ conn = sqlite3.connect(takeaway_db)
 takeaway_percentage_vegan = """
 WITH item_counts AS (
     SELECT 
-        SUM(CASE WHEN c.name LIKE '%Veg%' THEN 1 ELSE 0 END) AS vegan_count,
-        SUM(CASE WHEN c.name NOT LIKE '%Veg%' THEN 1 ELSE 0 END) AS non_vegan_count
+        SUM(CASE WHEN c.name LIKE '%Veg%' OR c.name LIKE '%veg%' THEN 1 ELSE 0 END) AS vegan_count,
+        SUM(CASE WHEN c.name NOT LIKE '%Veg%' OR c.name NOT LIKE '%veg%' THEN 1 ELSE 0 END) AS non_vegan_count
     FROM menuItems AS mi
     INNER JOIN categories AS c ON mi.id = c.item_id
     INNER JOIN restaurants AS r ON mi.primarySlug = r.primarySlug
@@ -41,8 +39,8 @@ SELECT
 FROM menuItems AS mi
 INNER JOIN restaurants AS r ON mi.primarySlug = r.primarySlug
 INNER JOIN categories AS c ON mi.id = c.item_id
-WHERE c.name LIKE '%veg%'  -- Filters for vegan/vegetarian dishes
-  AND mi.price > 0         -- Ensure only valid dishes with prices
+WHERE c.name LIKE '%Veg%' OR c.name LIKE '%veg%'
+  AND mi.price > 0
 GROUP BY r.city
 ORDER BY vegan_dish_count DESC
 LIMIT 10;
@@ -55,8 +53,8 @@ SELECT
 FROM menuItems AS mi
 INNER JOIN restaurants AS r ON mi.primarySlug = r.primarySlug
 INNER JOIN categories AS c ON mi.id = c.item_id
-WHERE c.name LIKE '%veg%'  -- Filters for vegan/vegetarian dishes
-  AND mi.price > 0         -- Ensure only valid dishes with prices
+WHERE c.name LIKE '%Veg%' OR c.name LIKE '%veg%'
+  AND mi.price > 0
 GROUP BY r.city
 ORDER BY vegan_dish_count ASC
 LIMIT 10;
@@ -124,5 +122,5 @@ axs[2].set_title(f"Top 10 Cities with Least Vegan Dishes (Total: {total_vegan_di
 
 # Save and Show
 plt.tight_layout()
-plt.savefig("vegan_piecharts.png")
+plt.savefig("assets/takeaway_vegan_piecharts.png")
 plt.show()
