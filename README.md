@@ -45,5 +45,5 @@ This project was done as part of the AI Boocamp at BeCode.org.
 **Team:**
 Connect with Adeeba  on [LinkedIn](https://www.linkedin.com/in/soha-mohamad-382b44219/).<br>
 Connect with Levin on [LinkedIn](https://www.linkedin.com/in/soha-mohamad-382b44219/).<br>
-Connect with Marten on [LinkedIn](https://www.linkedin.com/in/soha-mohamad-382b44219/).<br>
+Connect with Maarten on [LinkedIn](https://www.linkedin.com/in/soha-mohamad-382b44219/).<br>
 Connect with Soha on [LinkedIn](https://www.linkedin.com/in/soha-mohamad-382b44219/).<br>
