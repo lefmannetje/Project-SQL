@@ -44,40 +44,40 @@ In this section you will find our analysis on three major food delivery apps in 
 
 | Distribution of restaurants across Belgium  |
 |-------------------------------------------|
-| ![fig3](assets\restaurant_distribution.png)               |
+| ![fig3](assets/restaurant_distribution.png)               |
 ------------------------------------------------
 
 | Total restaurants Exclusive count | Number of restaurants by platforms and city|
 |---------------------------------  |  -----------------------------------------|
-| ![fig1](assets\Figure_1.png)      | ![fig2](assets\Figure_2.png)               |
+| ![fig1](assets/Figure_1.png)      | ![fig2](assets/Figure_2.png)               |
 
 | Kapsalon price distribution heatmap| Restauarant distribution dead zones        |
 |------------------------------------|--------------------------------------------|
-| ![fig1](assets\heatmap.png)        | ![fig2](assets\dead_zones.png)             |
+| ![fig1](assets/heatmap.png)        | ![fig2](assets/dead_zones.png)             |
 
 
 2. If you love Pizza and Hummus, Here are the top restaurants based on ratings which you can checkout.
 
 | Top 10 pizza restaurants          |    Top 5 Hummus Restuarants                |
 |-----------------------------------|--------------------------------------------|
-| ![fig4](assets\top_10_pizza.png)  | ![fig5](assets\top_5_hummus.png)       |  
+| ![fig4](assets/top_10_pizza.png)  | ![fig5](assets/top_5_hummus.png)       |  
 ---------------------------------------------------------------------------------
 
 3. If you are a vegetarian. Here is the informations needed for you to pick your dishes
 
 | Information on vegetarian dishes and restaurants|
 |-------------------------------------------------|
-| ![fig1](assets\vegan_piecharts.png)            |
+| ![fig1](assets/vegan_piecharts.png)            |
 
 4. A more deeper analysis in to the ratings of restaurants and thier prices can be seen below.
 
 | Restaurants rating by service and city |   Relation between rating and delivery fees|
 |----------------------------------------|--------------------------------------------|
-| ![fig1](assets\restaurant_ratings.png) | ![fig2](assets\corelation_rating.png)      |
+| ![fig1](assets/restaurant_ratings.png) | ![fig2](assets/corelation_rating.png)      |
 
 | Overlapping resatuarants across platforms| Price Distribution of delivery services |
 |-----------------------------------------|-------------------------------------------|
-| ![fig3](assets\Figure_3.png)            | ![fig4](assets\price_distribution.png)    |
+| ![fig3](assets/Figure_3.png)            | ![fig4](assets/price_distribution.png)    |
 ---------------------------------------------------------------------------------------
 
 ## Database
