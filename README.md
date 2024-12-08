@@ -80,6 +80,11 @@ In this section you will find our analysis on three major food delivery apps in 
 | ![fig3](assets/Figure_3.png)            | ![fig4](assets/price_distribution.png)    |
 ---------------------------------------------------------------------------------------
 
+## Presentation
+URL for the presentaion:<br/>
+
+https://www.canva.com/design/DAGYanVGj4o/kYR2l_zKfjt8PkbmOP1LJQ/edit?utm_content=DAGYanVGj4o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Database
 
 This project utilizes a structured database (`SQLite`) to manage and organize the data efficiently.
